@@ -1,0 +1,2328 @@
+FEN: r6k/pp2r2p/4Rp1Q/3p4/8/1N1P2R1/PqP2bPP/7K b - - 0 24
+Moves: f2g3 e6e7 b2b1 b3c1 b1c1 h6c1
+Rating: 1920
+--------------------
+FEN: 8/8/4k1p1/2KpP2p/5PP1/8/8/8 w - - 0 53
+Moves: g4h5 g6h5 f4f5 e6e5 f5f6 e5f6
+Rating: 1556
+--------------------
+FEN: r1bqk2r/pp1nbNp1/2p1p2p/8/2BP4/1PN3P1/P3QP1P/3R1RK1 b kq - 0 19
+Moves: e8f7 e2e6 f7f8 e6f7
+Rating: 1554
+--------------------
+FEN: 5r1k/5rp1/p7/1b2B2p/1P1P1Pq1/2R1Q3/P3p1P1/2R3K1 w - - 0 41
+Moves: e3g3 f7f4 e5f4 f8f4
+Rating: 1966
+--------------------
+FEN: r2q1rk1/5ppp/1np5/p1b5/2p1B3/P7/1P3PPP/R1BQ1RK1 b - - 1 17
+Moves: d8f6 d1h5 h7h6 h5c5
+Rating: 1741
+--------------------
+FEN: 1qr2rk1/pb2bppp/8/8/2p1N3/P1Bn2P1/2Q2PBP/1R3RK1 b - - 3 23
+Moves: b8c7 b1b7 c7b7 e4f6 e7f6 g2b7
+Rating: 1741
+--------------------
+FEN: 2r3k1/2r4p/4p1p1/1p1q1pP1/p1bP1P1Q/P6R/5B2/2R3K1 b - - 5 34
+Moves: c4e2 h4h7 c7h7 c1c8 g8g7 c8c7
+Rating: 1760
+--------------------
+FEN: k1r1b3/p1r1nppp/1p1qpn2/2Np4/1P1P4/PQRBPN2/5PPP/2R3K1 w - - 0 19
+Moves: d3a6 b6c5 a6c8 c5c4
+Rating: 1858
+--------------------
+FEN: r3kb1r/pppqpn1p/5p2/3p1bpQ/2PP4/4P1B1/PP3PPP/RN2KB1R w KQkq - 1 11
+Moves: b1c3 f5g4 h5g4 d7g4
+Rating: 1543
+--------------------
+FEN: r3kb1r/ppq2ppp/4pn2/2Ppn3/1P4bP/2P2N2/P3BPP1/RNBQ1RK1 b kq - 2 10
+Moves: f8e7 f3e5 c7e5 e2g4
+Rating: 1598
+--------------------
+FEN: r3kbnr/ppp1qppp/2n5/3pP3/5B2/4PQ2/PPP2PPP/RN2KB1R w KQkq - 1 7
+Moves: f1b5 e7b4 b1c3 b4b2
+Rating: 1590
+--------------------
+FEN: r4rk1/pp3ppp/3p1q2/P1P1p3/2B5/2B2n2/2P2P1P/R2Q1RK1 w - - 0 16
+Moves: g1h1 f6f4 d1f3 f4f3
+Rating: 1833
+--------------------
+FEN: r6k/q1pb1p1p/1b3Pr1/p1ppP2Q/3P2p1/4B3/PP2NRPP/3R2K1 b - - 1 25
+Moves: d7e6 e2f4 c5d4 f4g6 f7g6 h5h6
+Rating: 1771
+--------------------
+FEN: r2r2k1/1p2qppp/2n1p3/5n2/p2P4/P2Q1N2/BP3PPP/2R1R1K1 w - - 4 20
+Moves: d3f5 e6f5 e1e7 c6e7
+Rating: 1615
+--------------------
+FEN: 8/3pk3/R7/1R2Pp1p/2PPnKr1/8/8/8 w - - 4 43
+Moves: f4f5 e4g3
+Rating: 1668
+--------------------
+FEN: 2r5/pR5p/5p1k/4p3/4r3/B4nPP/PP3P2/1K2R3 w - - 0 27
+Moves: e1e4 f3d2 b1a1 c8c1
+Rating: 1577
+--------------------
+FEN: r1bqk1nr/1pp2ppp/p1pb4/4p3/3PP3/5N2/PPP2PPP/RNBQ1RK1 b kq - 0 6
+Moves: d8f6 d4e5 d6e5 c1g5 f6d6 f3e5 d6d1 f1d1
+Rating: 1729
+--------------------
+FEN: 4qk2/1b3rR1/p7/1p2Q3/4P2P/P2P3K/2r5/3R4 w - - 5 41
+Moves: g7f7 e8f7 e5h8 f8e7
+Rating: 1735
+--------------------
+FEN: r1bk2r1/ppq2pQp/3bpn2/1BpnN3/5P2/1P6/PBPP2PP/RN2K2R w KQ - 3 13
+Moves: e5f7 d8e7 g7g8 f6g8
+Rating: 1636
+--------------------
+FEN: 5rk1/5ppp/1p6/1qp2P1Q/3p3P/6R1/6PK/8 b - - 0 30
+Moves: c5c4 g3g7 g8g7 f5f6 g7f6 h5b5
+Rating: 1764
+--------------------
+FEN: 8/4kr2/R2p4/1p1Pp1p1/5p2/3K1P2/PPP5/8 b - - 0 39
+Moves: g5g4 a6a7 e7f6 a7f7 f6f7 f3g4
+Rating: 1612
+--------------------
+FEN: 8/3k4/1K1P4/2P3r1/R7/5b2/8/8 b - - 0 68
+Moves: g5g8 a4a7 d7e6 a7e7 e6d5 d6d7
+Rating: 1931
+--------------------
+FEN: r2q1r1k/2p3p1/pb2Q2p/1p1p1n2/8/1BP5/PP1B1PPP/3RR1K1 w - - 3 20
+Moves: b3d5 b6f2 g1f2 f5d4 f2g1 d4e6
+Rating: 1750
+--------------------
+FEN: 5rk1/R4pp1/1p5p/3Q4/1PPp2q1/3P2P1/5P2/4nK2 w - - 0 34
+Moves: f1e1 f8e8 e1f1 g4h3 d5g2 e8e1 f1e1 h3g2
+Rating: 1715
+--------------------
+FEN: 1k1r3r/2q5/pp1n2p1/8/1Q6/3R2P1/PPP2P1P/3R2K1 b - - 4 29
+Moves: c7c5 b4c5 b6c5 d3d6 d8d6 d1d6
+Rating: 1608
+--------------------
+FEN: 1r3k2/5p1p/2p1pp2/P2n4/2r1N3/P4PK1/2R2P1P/2R5 b - - 9 29
+Moves: c4a4 e4c5 a4a5 c5d7 f8g7 d7b8
+Rating: 1955
+--------------------
+FEN: 2r5/4ppkp/5bp1/1p6/1P6/P3B3/2r2PPP/1R1R2K1 b - - 2 22
+Moves: f6b2 b1b2 c2b2 e3d4 f7f6 d4b2
+Rating: 1515
+--------------------
+FEN: 3r2k1/1b3pbR/p2P2P1/3p2N1/2p5/2P2N2/PP6/2K5 b - - 0 28
+Moves: f7g6 h7g7 g8g7 g5e6 g7g8 e6d8
+Rating: 1505
+--------------------
+FEN: r3kb1r/3nnpp1/4p1bp/1NppP3/3P4/6N1/P2BBPPP/R3K2R b KQkq - 0 17
+Moves: a8b8 b5d6 e8d8 d2a5
+Rating: 1588
+--------------------
+FEN: r1bq3Q/1np2kp1/p5B1/1p1Pp3/1Pn2BP1/2b2P2/P3K3/R4N2 b - - 5 35
+Moves: f7g6 h8h5 g6f6 f4g5
+Rating: 1605
+--------------------
+FEN: 7k/pb1qn2n/1p2R2Q/2p2p2/2Pp4/3B4/PP3PrP/4RK2 b - - 1 27
+Moves: g2g7 h6g7 h8g7 e6e7 d7e7 e1e7
+Rating: 1988
+--------------------
+FEN: r1q4r/2p1kP2/3p4/2pPp3/p1P1Pb2/P1NB3b/1P3KP1/R2Q1R2 w - - 1 23
+Moves: g2h3 c8h3 d1f3 h3h2 f3g2 f4e3 f2f3 h8h3 g2h3 h2h3
+Rating: 1982
+--------------------
+FEN: r2qr1k1/p5bp/1pp1b1p1/8/2QN1p2/2P1n2P/PP3PP1/R1B1RNK1 w - - 1 18
+Moves: d4e6 e3c4 e6d8 e8e1
+Rating: 1749
+--------------------
+FEN: 3r4/p1p2ppp/4k3/6Q1/5P2/4P3/Prqn2PP/3R1RK1 w - - 3 22
+Moves: g5d8 d2f3 g1h1 c2g2
+Rating: 1616
+--------------------
+FEN: 8/1p6/p1p2p2/P3b3/1PK3P1/2PBk3/8/8 b - - 3 60
+Moves: e3d2 d3f5 e5c7 f5c8 b7b6 a5b6 c7b6 c8a6
+Rating: 1603
+--------------------
+FEN: br1qkb1r/p1pp1ppp/4Pn2/6B1/3Qn3/5NP1/P3PPBP/RN1R2K1 b k - 0 15
+Moves: d7e6 d4a4 d8d7 d1d7
+Rating: 1783
+--------------------
+FEN: 8/1bpp2k1/1p5r/1P2P3/3P1P2/2P1n1K1/2Q3P1/8 w - - 0 30
+Moves: c2a2 h6g6 g3f2 g6g2
+Rating: 1735
+--------------------
+FEN: 2r3k1/p2q1pbp/1p2pnp1/nB1p4/3P4/1Pr1P2P/P1QB1PP1/2R2RK1 w - - 0 19
+Moves: b5d7 c3c2 d7c8 c2d2
+Rating: 1659
+--------------------
+FEN: 2k1r3/pppn1pp1/3b2b1/3p2Pp/2B2P2/3P3P/PPPR4/2K3NR w - - 0 18
+Moves: c4d5 e8e1 d2d1 d6f4 c1b1 e1d1
+Rating: 1679
+--------------------
+FEN: 8/4bkp1/R6P/4p3/Pp2P3/1P1rB3/6P1/6K1 b - - 0 33
+Moves: d3e3 h6h7 e3e1 g1h2
+Rating: 1681
+--------------------
+FEN: 2K5/3P4/5b2/p1B5/P7/3k4/6p1/8 w - - 7 77
+Moves: d7d8q f6d8 c8d8 d3c4
+Rating: 1604
+--------------------
+FEN: 1rb2r1k/4q2p/p2p4/3B1p2/1pPb4/1P2NQ2/P5PP/2R2RK1 w - - 1 24
+Moves: g1h1 e7e3 f3e3 d4e3
+Rating: 1705
+--------------------
+FEN: r4rk1/pp2bppp/2ppnn2/8/N1P1P3/q1P4P/P2N2PB/R2Q1R1K b - - 0 16
+Moves: a8d8 d2b1 a3a4 d1a4
+Rating: 1545
+--------------------
+FEN: 1rb1qrk1/6bp/2np4/2pNpp2/2P5/3P1B2/1B3PPP/1R1QR1K1 b - - 0 22
+Moves: c8e6 d5c7 e8f7 c7e6
+Rating: 1657
+--------------------
+FEN: 7R/8/8/6p1/2p1p1k1/2PbK2p/P7/8 w - - 4 71
+Moves: e3f2 e4e3 f2e3 g4g3
+Rating: 1597
+--------------------
+FEN: r2k2nr/pp2qBb1/3p3p/Q5p1/3n1B2/2N2R2/PPP3P1/R5K1 b - - 1 18
+Moves: b7b6 a5d5 d4f3 g2f3 a8c8 f4d6
+Rating: 1979
+--------------------
+FEN: 8/8/3p4/4kp2/1pP3pP/1RbK2P1/8/8 w - - 2 42
+Moves: b3c3 b4c3 d3c3 f5f4 c3d3 f4g3
+Rating: 1509
+--------------------
+FEN: 5rk1/bpp3pp/p1npb3/4p3/1P2Nr1q/P1PP3P/1B1QBPR1/2K3R1 b - - 2 21
+Moves: h4h3 g2g7 g8h8 e4g5
+Rating: 1942
+--------------------
+FEN: rnq2r2/pp3pbk/3p1n2/2pPpPQ1/2P1P3/2N2NP1/PP4KP/R4R2 b - - 2 18
+Moves: f8g8 g5h4 g7h6 h4f6
+Rating: 1645
+--------------------
+FEN: 5rk1/4bppp/4b3/1p1pPpPP/2pP4/2P5/rqNQKP2/2RRN3 b - - 5 23
+Moves: e7a3 c1b1 b2b3 b1b3
+Rating: 1641
+--------------------
+FEN: 8/2p1N1p1/3r3p/6k1/3p4/6P1/6KP/3R4 w - - 0 42
+Moves: h2h4 g5f6
+Rating: 1858
+--------------------
+FEN: rnbq1rk1/p4ppp/1p2p3/2p5/2QPn3/2P1PN2/P3BPPP/R1B2RK1 w - - 0 11
+Moves: c1a3 c8a6 c4a6 b8a6
+Rating: 1674
+--------------------
+FEN: 3k2q1/pb1p3p/1p1P4/2p5/2P2Q1K/8/P7/5R2 b - - 2 36
+Moves: b7g2 f4f8 g8f8 f1f8
+Rating: 1593
+--------------------
+FEN: r3r1k1/p2Q1p1p/1p2p1p1/8/1P1P4/P3P3/1B2Nb1q/2KR1R2 w - - 0 19
+Moves: f1h1 f2e3 c1b1 h2e2
+Rating: 1558
+--------------------
+FEN: N2k3r/1b1n1Bpp/p7/1pb1P3/6P1/4p3/PPP4P/1K1R3R w - - 1 20
+Moves: e5e6 b7h1 d1d7 d8c8 d7c7 c8b8
+Rating: 1801
+--------------------
+FEN: 7R/1K3p2/6k1/PP4p1/8/6rp/8/8 b - - 2 47
+Moves: g5g4 a5a6 h3h2 h8h2
+Rating: 1776
+--------------------
+FEN: 5k2/1R6/3pp1P1/2p5/1pr1PK2/5P2/8/8 b - - 0 60
+Moves: c4c1 f4g5 c1g1 g5f6
+Rating: 1999
+--------------------
+FEN: 1r4k1/p3p1bp/1n3qp1/6B1/6Q1/1P4pP/P5B1/3R3K b - - 0 29
+Moves: f6e5 g5f4 e5f4 g4f4
+Rating: 1697
+--------------------
+FEN: 6r1/1p1bRk2/p2q1n1r/3p4/3Q4/1P1B3P/P1P2PP1/4R1K1 b - - 4 27
+Moves: d6e7 e1e7 f7e7 d4e3 e7f7 e3h6
+Rating: 1770
+--------------------
+FEN: 6k1/2q1pp2/p5pB/2p4n/3pP1Q1/P2P3P/1r4P1/5RK1 b - - 1 30
+Moves: c7g3 g4c8 g8h7 f1f7 h5g7 f7g7 h7h6 c8h8 h6g5 g7g6 g5g6 h8g8 g6f6 g8g3
+Rating: 1959
+--------------------
+FEN: 8/pp6/2p1kpp1/3p4/3P1PPp/1P3K2/P1P4P/8 w - - 0 31
+Moves: g4g5 f6g5 f3g4 g5f4 g4f4 e6f6
+Rating: 1681
+--------------------
+FEN: r2q1kr1/ppp2p1p/2n5/8/3P4/P2BP1N1/1P1Q1PbP/R3K2R w KQ - 0 17
+Moves: d3h7 g8g3 f2g3 g2h1
+Rating: 1835
+--------------------
+FEN: r2qkb1r/ppp1pppp/8/3p3Q/3n1P2/3B3P/PPP2PP1/RN2K2R b KQkq - 1 9
+Moves: g7g6 h5e5 d4f3 g2f3
+Rating: 1568
+--------------------
+FEN: 4r1k1/pp1qn3/2p4R/6p1/3P1rR1/3Q2P1/PP3P1P/6K1 b - - 0 31
+Moves: f4g4 d3h7 g8f8 h6f6
+Rating: 1541
+--------------------
+FEN: 4r1k1/5pp1/2R4p/1p6/8/1PP3QP/2q2PP1/6K1 w - - 0 29
+Moves: c6h6 c2c1 g1h2 c1h6
+Rating: 1694
+--------------------
+FEN: 4r3/pN3kpp/2N1b3/2R5/5b2/P7/1P3PPP/7K w - - 1 30
+Moves: g2g3 e6h3 c5c1 f4c1
+Rating: 1839
+--------------------
+FEN: b3k2r/4bpp1/2q1p2p/1p1nP3/1Pp1N3/2P5/2B2PPP/2BQR1K1 w k - 0 19
+Moves: c1e3 d5c3 d1g4 c3e4
+Rating: 1656
+--------------------
+FEN: 1r2r1k1/ppp1q1pp/4b3/4P3/1Q1p1P2/8/P5PP/R1BR2K1 w - - 6 19
+Moves: d1d4 c7c5 b4a3 c5d4 a3e7 e8e7
+Rating: 1536
+--------------------
+FEN: r5k1/pp4p1/1n6/3pB3/3P2pb/2NQ1r2/PP6/2K3R1 w - - 2 24
+Moves: d3f3 g4f3 g1g7 g8f8
+Rating: 1731
+--------------------
+FEN: 8/b2r1p1k/5Qp1/1p5p/4p3/1P1q3P/5PP1/2B2RK1 b - - 13 38
+Moves: d3b3 c1b2 b3b2 f6b2
+Rating: 1628
+--------------------
+FEN: r1bk3r/ppp1n2p/3pNQ2/8/2BpP2p/8/PPPq2PP/R5K1 b - - 2 21
+Moves: d8d7 f6h8 d7c6 h8e8
+Rating: 1913
+--------------------
+FEN: 8/2p4r/1p3k2/p2Pp1p1/P1P1RpP1/1P3P1r/4R1K1/8 w - - 7 46
+Moves: e4e5 h3h2 g2f1 h2h1 f1f2 h7h2
+Rating: 1690
+--------------------
+FEN: r1qr3k/pp3pB1/1np1pb2/8/3P3P/2N2PR1/PP1Q2P1/2KR4 b - - 0 22
+Moves: f6g7 d2g5 d8g8 g5h5 g7h6 h5h6
+Rating: 1607
+--------------------
+FEN: r2q1rk1/p1p1bppp/2pp1nb1/4p3/4P1PN/2NP3P/PPP2PK1/R1BQ1R2 b - - 4 11
+Moves: f6e4 h4g6 e4c3 g6e7 d8e7 b2c3
+Rating: 1699
+--------------------
+FEN: 7k/1q5p/3Q2p1/8/P3p3/1p2B2P/1br3P1/R5K1 b - - 0 32
+Moves: b7f7 a1f1 f7f1 g1f1
+Rating: 1918
+--------------------
+FEN: 8/7p/6pK/5p2/4p3/1k4P1/5P1P/8 w - - 2 44
+Moves: h6h7 g6g5 g3g4 f5f4
+Rating: 1720
+--------------------
+FEN: r7/4kpRp/2p2p1P/p1P1n3/Pp6/1B6/5PP1/6K1 b - - 2 35
+Moves: a8h8 f2f4 e5d7 g7f7
+Rating: 1506
+--------------------
+FEN: r1bk1bnr/pppp1Bpp/8/3Nq3/3nP3/3P4/PPP2PPP/R1BQK2R b KQ - 0 8
+Moves: g8f6 c1f4 e5f4 d5f4
+Rating: 1555
+--------------------
+FEN: 8/8/6p1/PR3p2/1P3k2/7P/r5P1/7K w - - 1 39
+Moves: h3h4 f4g3 b5d5 a2a1 d5d1 a1d1
+Rating: 1538
+--------------------
+FEN: r2q1rk1/p3bpp1/2pp1nb1/4p1Q1/8/1B3N1P/PPP3P1/R1B2RK1 b - - 0 18
+Moves: f6e4 g5g6 d8b6 g1h2
+Rating: 1852
+--------------------
+FEN: 2k4r/pp6/3p4/2pBb3/4P2B/2P2bp1/PP1R4/R5K1 w - - 1 32
+Moves: d2g2 h8h4 a1f1 f3g2
+Rating: 1634
+--------------------
+FEN: 8/8/1n4kP/1P3p2/3P1K2/2p1N3/8/8 w - - 4 49
+Moves: f4e5 b6c4 e3c4 c3c2
+Rating: 1762
+--------------------
+FEN: 2r3k1/3q1pp1/1rp5/2Rn2Np/1p1N3n/1Q2P3/5PP1/2R3K1 w - - 0 33
+Moves: c5d5 c6d5 c1c8 d7c8
+Rating: 1629
+--------------------
+FEN: 5k2/1p3pp1/p3pb2/r7/2P2B2/1P6/1PR1K1PP/8 b - - 0 33
+Moves: f6e5 b3b4 a5a1 f4e5
+Rating: 1561
+--------------------
+FEN: 2k5/1p4p1/p4b2/3p4/3P4/2PQN3/PP3q2/1K6 w - - 0 37
+Moves: e3d5 f2g1 b1c2 g1g2
+Rating: 1853
+--------------------
+FEN: 4R3/1p4k1/1q1N1bpp/3B4/5p1P/p4P2/3RK1P1/8 w - - 4 42
+Moves: d6e4 b6b5 d2d3 b5e8
+Rating: 1933
+--------------------
+FEN: 8/1p6/p1b5/5k1p/1PB1p2P/P3P1K1/8/8 b - - 2 35
+Moves: f5e5 c4f7 c6d7 f7h5
+Rating: 1562
+--------------------
+FEN: 6k1/3R3p/1p5q/3P4/3QP1pN/6P1/PPr3B1/5rK1 w - - 0 25
+Moves: g1f1 h6c1 d4d1 c1d1
+Rating: 1539
+--------------------
+FEN: 6k1/6pp/1PP5/4b3/3p4/Br5P/4prP1/R5RK w - - 1 30
+Moves: c6c7 b3h3 g2h3 f2h2
+Rating: 1650
+--------------------
+FEN: 2B4k/p1p3pb/8/5pnr/8/2P2R2/PPP2K2/6R1 w - - 6 34
+Moves: c8f5 g5f3 f5g4 f3g1
+Rating: 1636
+--------------------
+FEN: r2q1r2/ppp2pk1/3p1n2/4p1p1/2B1P3/2NP2Q1/PPP5/2K4R b - - 0 19
+Moves: g7g6 g3h3 f8h8 h3f5 g6g7 f5g5
+Rating: 1792
+--------------------
+FEN: r1bq1rk1/pp2bppp/2pp1n2/8/5P2/5N2/PBPPB1PP/RN1Q1RK1 w - - 5 11
+Moves: b1c3 d8b6 g1h1 b6b2 a1b1 b2a3
+Rating: 1653
+--------------------
+FEN: 5QR1/5p1p/1b3qp1/p6k/P2P4/8/1P2rPPP/5RK1 w - - 7 32
+Moves: g8h8 f6f2 f1f2 e2e1 f2f1 b6d4 g1h1 e1f1
+Rating: 1703
+--------------------
+FEN: 8/8/8/p3b3/P1B2pKp/1Pk1p2P/6P1/8 w - - 8 50
+Moves: g4h4 c3d2 h4g4 e3e2 c4e2 d2e2
+Rating: 1689
+--------------------
+FEN: 8/n7/P7/3k4/PK6/7P/5PP1/8 w - - 0 53
+Moves: b4a5 d5c5 f2f3 a7c6
+Rating: 1631
+--------------------
+FEN: 2r3k1/1p1q1ppp/4p3/Q7/3P4/P1B5/1Pr2PPP/R5K1 b - - 0 22
+Moves: d7d4 c3d4 c2c1 a5e1
+Rating: 1828
+--------------------
+FEN: r2q1rk1/p3b1pp/2p5/4ppB1/4p1nP/2N5/PPP1QPP1/3R1RK1 b - - 8 15
+Moves: d8c7 e2c4 g8h8 c3d5 c6d5 c4c7
+Rating: 1913
+--------------------
+FEN: r1bqkb1r/ppp1n1p1/7p/3Pp1N1/2P5/8/PP3PPP/RNBQK2R w KQkq - 0 11
+Moves: d1h5 g7g6 h5e2 h6g5
+Rating: 1531
+--------------------
+FEN: r6r/pQ2nkpp/4b3/2p1q3/4p3/2N5/PP1B1PPP/R4RK1 w - - 1 15
+Moves: c3e4 e6d5 e4g5 e5g5 d2g5 d5b7
+Rating: 1644
+--------------------
+FEN: 3r2k1/2q1bppp/b3n3/p2N4/2p1P3/P3QN2/1PP2PPP/4R1K1 b - - 1 22
+Moves: e7c5 d5c7 c5e3 c7e6 e3f2 g1f2
+Rating: 1689
+--------------------
+FEN: 2kr4/p1pr1pp1/1p4p1/1PP1P3/3B1PP1/PQ2Pn1P/2KRR3/5q2 w - - 1 30
+Moves: c5b6 d7d4 e3d4 f3d4 c2b2 d4b3
+Rating: 1905
+--------------------
+FEN: r4k2/ppp3p1/3p3r/2q5/2NnP3/2Q2PBp/PP3R1P/5RK1 w - - 4 25
+Moves: b2b4 d4e2 g1h1 c5f2 c3g7 f8g7
+Rating: 1916
+--------------------
+FEN: r2qkb1r/pp1nppp1/2p2n1p/3p1b2/3P4/BP2PN2/P1P2PPP/RN1QKB1R w KQkq - 2 7
+Moves: c2c4 f5b1 a1b1 d8a5 b3b4 a5a3
+Rating: 1852
+--------------------
+FEN: 1r2r3/p2k3p/2bP1q1P/1p2ppp1/1P6/1KPB4/P6Q/3R1R2 b - - 1 38
+Moves: e8f8 d3f5 f6f5 f1f5
+Rating: 1555
+--------------------
+FEN: 5q1k/2r3p1/1p2p2b/3p2NQ/3P4/1p6/5R2/6K1 b - - 1 38
+Moves: f8b4 h5e8 b4f8 f2f8
+Rating: 1559
+--------------------
+FEN: 5r1k/1pp3p1/7p/pP1N4/P3P3/2PP3P/3BnbPK/R7 w - - 2 27
+Moves: d5c7 f2g3 h2h1 g3c7
+Rating: 1542
+--------------------
+FEN: 8/3R3p/5kp1/8/2Bnp3/1P5P/P6r/4K3 b - - 1 40
+Moves: f6e5 d7d5 e5f4 d5d4
+Rating: 1573
+--------------------
+FEN: 2r3nr/p5pp/b3kp2/3p4/4p3/BP3P2/P1PN2PP/2KR3R b - - 0 18
+Moves: f6f5 f3e4 f5e4 d2e4 d5e4 d1d6 e6f7 d6a6
+Rating: 1958
+--------------------
+FEN: 6k1/5p1p/4pbp1/p2p4/2rP1P2/P3B1P1/1P2R1KP/8 b - - 0 30
+Moves: f6d4 b2b3 c4c2 e2c2
+Rating: 1649
+--------------------
+FEN: 3r3r/q4pk1/p4N2/1p2PQp1/P4n2/3p1P1P/1P4P1/3RR1K1 w - - 0 32
+Moves: g1h2 h8h3 f5h3 f4h3
+Rating: 1895
+--------------------
+FEN: 3r4/7p/p3nkp1/1b6/4P2P/1B2B3/P4KP1/8 b - - 1 38
+Moves: e6d4 e3g5 f6e5 g5d8
+Rating: 1558
+--------------------
+FEN: 3r1rk1/p1p2pbp/1p4p1/7n/4P3/1P2BP1q/P1B3QP/3R1R1K b - - 6 23
+Moves: h3h4 e3g5 h5g3 g2g3
+Rating: 1535
+--------------------
+FEN: 8/8/8/P6p/8/2RnkN2/r7/3K4 w - - 1 60
+Moves: f3e1 a2d2
+Rating: 1760
+--------------------
+FEN: 5rk1/npp3p1/p3pr1p/2b5/3NR3/4B2P/PPP2PP1/R5K1 w - - 5 22
+Moves: e4e6 c5d4 e6f6 d4f6 e3a7 b7b6
+Rating: 1838
+--------------------
+FEN: r2q1r1k/pppn2pp/2n1B3/6b1/5B2/2N2Q2/PPP3PP/2KR1R2 w - - 1 15
+Moves: f4g5 d8g5 c1b1 f8f3
+Rating: 1569
+--------------------
+FEN: 1r3b1r/pp1bk1pp/6q1/3QPn2/3P1B2/2P5/PP4PP/RN3RK1 w - - 3 17
+Moves: e5e6 d7c6 d5c6 b7c6
+Rating: 1839
+--------------------
+FEN: rn1q1knr/pbpp4/1p2ppQ1/6N1/1bPP3p/2N3B1/PP2PPPP/R3KB1R b KQ - 0 10
+Moves: f6g5 g3e5 h8h7 g6h7
+Rating: 1550
+--------------------
+FEN: 8/7R/B2k4/2pnp3/P7/3KP3/1r6/8 w - - 1 43
+Moves: a6c4 e5e4 d3e4 d5f6
+Rating: 1968
+--------------------
+FEN: r3k1nr/pp3ppp/1q2b3/8/1n1p4/6P1/PB1QPPBP/R3K1NR w KQkq - 0 13
+Moves: b2d4 b6d4 d2d4 b4c2 e1f1 c2d4
+Rating: 1563
+--------------------
+FEN: 5rk1/2pp1q1p/n5p1/pp1PP3/3PB1PP/P2Q1p2/5P2/R5K1 w - - 0 25
+Moves: d3b5 f7f4 b5d7 f4e4
+Rating: 1704
+--------------------
+FEN: r4r2/1ppb1p2/p2p2pk/5P2/4P3/2PBB1R1/PKP2P1q/8 b - - 4 26
+Moves: h6h5 d3e2 h5h4 e3g5
+Rating: 1691
+--------------------
+FEN: 2r5/8/8/pNp1r2p/3kNppP/1P1P4/2R2K2/8 b - - 2 42
+Moves: d4d3 c2d2 d3e4 b5d6
+Rating: 1693
+--------------------
+FEN: r2qk2r/2pn1p1n/pp1p2bp/3Pp1bB/PPP1P3/2N1B3/3N2PP/R2Q1RK1 w kq - 3 17
+Moves: h5g6 g5e3 g1h1 f7g6
+Rating: 1550
+--------------------
+FEN: 8/5KP1/R1k5/8/2pp4/8/8/6r1 b - - 1 50
+Moves: c6c5 a6g6 g1g6 f7g6 d4d3 g7g8q
+Rating: 1615
+--------------------
+FEN: 1r1r2k1/p3ppb1/b3q1pp/2p5/2N5/1Q1RB3/P4PPP/2R1N1K1 b - - 0 21
+Moves: b8b3 d3d8 g8h7 a2b3
+Rating: 1889
+--------------------
+FEN: r2q1r1k/1pp3p1/1b2b2p/3n4/pP6/P1P2N1P/1BB2PP1/R2QK2R w KQ - 0 20
+Moves: d1d3 e6f5 e1c1 f5d3
+Rating: 1660
+--------------------
+FEN: 8/2k4p/p2p2p1/2pP1p2/2P4P/3K4/P2R1PP1/4r3 w - - 0 28
+Moves: d2e2 e1e2 d3e2 c7b6 e2f3 b6a5 a2a3 a5a4
+Rating: 1563
+--------------------
+FEN: 3r1br1/Qpqk1p2/p1p1p2p/3nP3/8/2P1NP1N/PP6/1K1R3R b - - 3 25
+Moves: f8e7 c3c4 b7b6 a7c7 d7c7 c4d5
+Rating: 1762
+--------------------
+FEN: 8/2p5/p1n5/1pP1p2k/1P1p4/P2P3P/5P2/R4KRq b - - 9 34
+Moves: h1h3 f1e2 e5e4 g1h1 e4d3 e2d2
+Rating: 1766
+--------------------
+FEN: r2r2k1/p4ppp/1p6/N1p1n3/4n3/P3P3/1P2BPPP/1R1R2K1 w - - 0 20
+Moves: a5c4 e5c4 e2c4 e4d2
+Rating: 1914
+--------------------
+FEN: 6k1/pp1n3p/2p1bppb/2q1p3/2P1P3/1PQN1PPP/PB4BK/8 b - - 5 25
+Moves: c5e3 b2c1 e3d4 c3d4 e5d4 c1h6
+Rating: 1584
+--------------------
+FEN: r5k1/1p2pp2/p2p3B/3P1P2/2P1P3/3p3Q/Pq6/R4K2 w - - 0 29
+Moves: h3g4 g8h7 a1e1 h7h6
+Rating: 1608
+--------------------
+FEN: 2kr2r1/1p1q3p/p1nb4/2p1p3/2N1R3/3P1QP1/PPP5/R1B3K1 b - - 4 22
+Moves: d8f8 f3f8 g8f8 c4b6 c8c7 b6d7
+Rating: 1919
+--------------------
+FEN: 8/7p/3k2p1/p5P1/P2K4/8/8/8 b - - 4 47
+Moves: d6c6 d4c4 c6d6 c4b5
+Rating: 1752
+--------------------
+FEN: 1Qbk1b1r/4rpp1/p1BP3p/8/3q4/6P1/1PP3PP/1K5R b - - 0 33
+Moves: e7d7 c6d7 d4c5 d7c8
+Rating: 1878
+--------------------
+FEN: 5rk1/n1q2ppp/1p1bpn2/1B1p1b2/NP1P4/P3PN2/3B1PPP/3Q1RK1 w - - 0 19
+Moves: b5e2 f5c2 d1a1 c2a4
+Rating: 1944
+--------------------
+FEN: 8/5p2/4p1k1/4P3/8/1R4Pn/1P2Kp2/5N1r w - - 2 46
+Moves: b3f3 h3g1 e2f2 g1f3
+Rating: 1515
+--------------------
+FEN: rnbqk1nr/ppp1b1pp/3p4/4p3/2B1P3/5N2/PPPP2PP/RNBQK2R w KQkq - 0 6
+Moves: f3e5 d6e5 d1h5 g7g6 h5e5 g8f6
+Rating: 1772
+--------------------
+FEN: 8/pp4k1/2p3p1/3nRr2/3P1Pp1/2P3K1/PP6/5R2 w - - 3 36
+Moves: g3g4 f5e5 d4e5 d5e3 g4f3 e3f1
+Rating: 1718
+--------------------
+FEN: 1r3bk1/5p2/3P1qRP/r1n1p3/ppB5/P2Q1P2/1PP5/1K6 b - - 0 35
+Moves: g8h7 g6g7 h7h6 d3h7
+Rating: 1864
+--------------------
+FEN: 8/P1R4p/5pk1/4q1p1/5P2/6KP/5QP1/7r b - - 0 51
+Moves: e5c7 a7a8q c7c3 a8f3
+Rating: 1783
+--------------------
+FEN: 4r1k1/p4p2/1p3q1p/1P6/3b2p1/P3B1P1/Q1P2PKP/4R3 w - - 0 32
+Moves: e3d4 f6f3 g2f1 f3h1
+Rating: 1623
+--------------------
+FEN: 2rq1rk1/p1n1bp2/1p2p1pN/3nP2p/3P3P/P2Q1N2/1P4P1/RBB3K1 b - - 1 21
+Moves: g8g7 h6f7 f8f7 d3g6
+Rating: 1820
+--------------------
+FEN: 8/5pp1/p4n1p/1p2k3/8/1PK1P3/P1B2P1P/8 w - - 2 31
+Moves: h2h3 f6e4 c2e4 e5e4
+Rating: 1989
+--------------------
+FEN: 4q1r1/k2r1Rp1/ppp4p/2Qp4/3P4/2P1P3/PP4P1/2K2R2 w - - 0 35
+Moves: c5c6 d7f7 f1f7 e8f7
+Rating: 1610
+--------------------
+FEN: 6k1/8/5B2/1R3pK1/6p1/6P1/P4P1q/8 w - - 0 41
+Moves: g5f5 h2h5 f6g5 h5f7 f5g4 f7c4
+Rating: 1714
+--------------------
+FEN: 4r1k1/1q3ppp/3B1n2/p2P4/8/Pp3Q1P/5PPN/1R4K1 w - - 0 27
+Moves: f3b3 e8e1 b1e1 b7b3
+Rating: 1602
+--------------------
+FEN: 2r2rk1/2QR1p1p/p3p1p1/1p4q1/5P2/P1N5/BPP3bP/2K4R w - - 1 20
+Moves: c7c8 g5f4 c1b1 f8c8
+Rating: 1532
+--------------------
+FEN: 8/5p2/pq5p/1p5k/6B1/6P1/P6P/2Q4K b - - 0 36
+Moves: h5g4 c1f4 g4h5 f4f5
+Rating: 1856
+--------------------
+FEN: 4k1r1/p1p5/2P4p/3rNp2/1b1BnP1p/4PR1P/P6K/1R6 b - - 1 27
+Moves: e4d2 b1b4 d2f3 e5f3
+Rating: 1543
+--------------------
+FEN: r1b2rk1/5p1p/p3pP2/1p1p4/5q1n/1P5P/P1P1QPB1/1K1R2R1 b - - 2 21
+Moves: f4f6 g2d5 h4g6 d5a8
+Rating: 1853
+--------------------
+FEN: 2r5/2r3k1/p1q1b1pp/3pn3/3R4/4P1N1/PQ4PP/R5K1 b - - 7 32
+Moves: c6c1 a1c1 c7c1 g3f1
+Rating: 1793
+--------------------
+FEN: 2rq1r2/4pBkp/pn1P1bp1/1p2N3/3PR3/P4Q2/1P3PPP/3R2K1 w - - 1 25
+Moves: f7e6 f6e5 d6e7 d8e7 f3e3 e7e6
+Rating: 1839
+--------------------
+FEN: r4r1k/pp4pp/1qpp1b2/4p3/N3P3/3Q4/PPP2PPP/3RR1K1 b - - 3 16
+Moves: b6d4 d3b3 b7b5 d1d4
+Rating: 1842
+--------------------
+FEN: r5k1/pb2r1p1/1p2pQ2/2b1N3/5P2/PP5P/4p2K/3R2R1 w - - 0 33
+Moves: d1e1 c5g1 e1g1 e2e1q f6e6 e7e6
+Rating: 1511
+--------------------
+FEN: 8/7p/p1p4k/1p1p4/3Qpq2/2P2NpP/PP4K1/8 w - - 0 44
+Moves: f3d2 c6c5 d4c5 f4d2
+Rating: 1989
+--------------------
+FEN: r2r2k1/pp3pp1/5q1p/4p3/3p4/2N1P3/PPQ2P1R/2K4R w - - 0 25
+Moves: e3d4 e5d4 c1b1 d4c3
+Rating: 1685
+--------------------
+FEN: 5r2/p2R4/1p3pk1/PQ4p1/4p1q1/4P1P1/6PK/8 w - - 3 34
+Moves: a5b6 f8h8 h2g1 g4g3
+Rating: 1981
+--------------------
+FEN: 4r1k1/p5bp/1q4p1/2pPrp2/1pP2N2/6PP/P4QB1/1R3RK1 w - - 2 25
+Moves: f4e6 e5e6 d5e6 g7d4
+Rating: 1681
+--------------------
+FEN: 4r1k1/5pp1/5n1p/P5r1/7q/1QP1p1PP/1P3P2/R3RBK1 w - - 0 27
+Moves: g1h2 f6g4 h2g2 g4f2
+Rating: 1928
+--------------------
+FEN: r2qk2r/4bpp1/4pn1p/pp1pPb2/2p2P1B/P1P1P3/1P2B1PP/RN1Q1RK1 b kq - 0 13
+Moves: f5b1 e5f6 e7f6 h4f6
+Rating: 1555
+--------------------
+FEN: 8/5pkp/PQ4p1/4p3/RP1pP3/8/2rq1PPP/5BK1 w - - 0 36
+Moves: b6b5 d2f2 g1h1 c2c1
+Rating: 1619
+--------------------
+FEN: 3r2k1/p3qp1p/6p1/P7/3r4/2Q4P/n4PP1/1RR2BK1 w - - 2 31
+Moves: c3c7 d4d7 c7c5 a2c1 c5e7 d7e7
+Rating: 1943
+--------------------
+FEN: 5rk1/5pp1/3p3p/4p1N1/8/PR6/1p3PPP/6K1 w - - 0 33
+Moves: g5e4 f8c8 g2g3 c8c1
+Rating: 1640
+--------------------
+FEN: 1r2r1k1/3p1pb1/p2q2pp/1p3P2/3p4/P6Q/BPP3PP/4RRK1 b - - 0 23
+Moves: g6g5 e1e8 b8e8 f5f6
+Rating: 1796
+--------------------
+FEN: 8/p1N3pp/5k2/2PB2b1/1P4b1/P6r/6K1/4R3 b - - 0 31
+Moves: h3d3 c7e8 f6g6 d5e4
+Rating: 1689
+--------------------
+FEN: 7k/Q1p3p1/5p1p/3q4/3Pr3/4P3/P4P1P/1R4K1 w - - 2 26
+Moves: a7c5 e4g4 g1f1 d5h1 f1e2 h1b1
+Rating: 1745
+--------------------
+FEN: 2R5/4b1pk/1r5p/2pPN3/1p2P3/3P4/4K1PP/8 w - - 1 39
+Moves: e5d7 b4b3 d5d6 e7d6 d7b6 b3b2 b6c4 b2b1q
+Rating: 1982
+--------------------
+FEN: 2kr4/1pq2p2/p3p1p1/2b1n2p/Q1P2B2/7P/P3BPP1/1R4K1 b - - 1 24
+Moves: c5d6 c4c5 c7c6 a4c6
+Rating: 1974
+--------------------
+FEN: 5k2/p4p2/1p6/3p1R2/7Q/P2Pr1KP/6P1/6q1 w - - 3 40
+Moves: f5f3 g1e1 g3g4 e1h4 g4h4 e3f3
+Rating: 1641
+--------------------
+FEN: r4rk1/pp3ppp/4p3/3pB1qB/Q1p5/2PbP3/PP1N1P1P/R3K2R w KQ - 0 15
+Moves: e5g7 g5h5 a4d1 h5d1 a1d1 g8g7
+Rating: 1674
+--------------------
+FEN: 7k/pQ4p1/2p4p/4r3/3r1p1n/6N1/PP2R1PP/6K1 b - - 0 30
+Moves: f4g3 b7b8 h8h7 b8e5
+Rating: 1544
+--------------------
+FEN: r1b1r1k1/pp1n1pb1/3p1q1p/2pP2p1/2P1B3/4PNB1/PPQ2PPP/2KR3R w - - 1 15
+Moves: h2h4 e8e4 h4g5 h6g5
+Rating: 1672
+--------------------
+FEN: 1k1r1b1r/4q3/QBpp4/4p3/4P2p/5p2/P5PP/4R1K1 b - - 0 28
+Moves: d8d7 e1b1 d7b7 b6a7 b8c8 a6c6 e7c7 c6e8
+Rating: 1983
+--------------------
+FEN: 8/8/8/3K2kp/8/2P1P3/8/8 w - - 0 50
+Moves: c3c4 h5h4 d5e4 g5g4 c4c5 h4h3 e4e5 h3h2 c5c6 h2h1q
+Rating: 1736
+--------------------
+FEN: 6k1/5Rp1/p6p/1p2P3/1qp1pNQ1/2n1P3/5KPP/3r4 b - - 0 31
+Moves: g8f7 g4e6 f7f8 f4g6
+Rating: 1968
+--------------------
+FEN: rnb2r1k/2q2p1p/p2p1bp1/1p2pN2/4P1QN/3B3R/PPP2PPP/R5K1 b - - 1 19
+Moves: g6f5 h4f5 c8f5 g4f5
+Rating: 1967
+--------------------
+FEN: 5Q2/8/8/8/pn6/k6r/8/2K5 w - - 2 83
+Moves: f8d6 h3c3 c1d2 c3d3 d6d3 b4d3
+Rating: 1701
+--------------------
+FEN: 2r3k1/3n1pp1/pq2r1p1/2p5/3b4/BP5P/P2N1PP1/R1Q1R1K1 w - - 0 23
+Moves: a3b2 e6e1 c1e1 d4b2 d2c4 b6f6 c4b2 f6b2
+Rating: 1815
+--------------------
+FEN: 8/5ppk/6qp/P1p1p3/2B4Q/1P2PbP1/5P1P/6K1 w - - 1 37
+Moves: a5a6 g6b1 c4f1 f3e2 h4h3 e2a6
+Rating: 1877
+--------------------
+FEN: 6rr/p1k1qp2/Ppn1p3/3pP1b1/QP1n1NNp/3P3P/3B2PK/1R2R3 b - - 2 32
+Moves: c7b8 b4b5 g5f4 d2f4 g8g4 h3g4
+Rating: 1654
+--------------------
+FEN: 3r4/pp4pk/2pR2pp/2P5/5nr1/5R2/PPB2P1K/8 b - - 6 34
+Moves: d8e8 f3f4 g4f4 c2g6 h7g8 g6e8
+Rating: 1561
+--------------------
+FEN: 8/p7/6P1/4p3/R4pK1/1r2k2P/8/8 b - - 0 47
+Moves: f4f3 g6g7 b3b8 a4a3
+Rating: 1683
+--------------------
+FEN: r2qr1k1/pb2bppp/2p2n2/3pN1B1/2P5/4P3/PPQ2PPP/3RKB1R w K - 3 13
+Moves: f1e2 e7b4 e1f1 e8e5
+Rating: 1891
+--------------------
+FEN: 3r1r2/pp3pk1/2p1pRp1/6Qp/2P5/P7/1q4PP/5R1K b - - 1 31
+Moves: d8d2 f6g6 f7g6 g5e7 g7h6 e7f8 b2g7 f8f4 h6h7 f4d2
+Rating: 1684
+--------------------
+FEN: rn1r2k1/pp2qppp/4pn2/6B1/2B1b2N/8/PPP1QPPP/2KR3R b - - 7 15
+Moves: e4c6 h4f5 d8d1 h1d1
+Rating: 1958
+--------------------
+FEN: r2qk1nr/pb1p3p/1pn2pp1/2b1p3/2BNPP2/4B3/PPP3PP/RN1Q1RK1 w kq - 0 11
+Moves: d4c6 c5e3
+Rating: 1570
+--------------------
+FEN: r1bq1k1r/pp3pbp/4Pnp1/nB6/8/2N2N2/PP3PPP/R1BQR1K1 b - - 0 13
+Moves: d8d1 e6e7 f8g8 e1d1
+Rating: 1908
+--------------------
+FEN: 8/2Q2kpp/1p1p2r1/1PnN4/2P1n3/6P1/1r3PK1/8 b - - 6 41
+Moves: f7e6 c7e7 e6f5 d5e3
+Rating: 1908
+--------------------
+FEN: 6rk/pq3p1p/1p3RrB/1Pp1p3/2PnP2Q/P5P1/6KP/1R6 w - - 2 28
+Moves: b1f1 g6g4 h4g4 g8g4 f6f7 b7e4
+Rating: 1788
+--------------------
+FEN: 5rk1/p4pp1/1p4rp/2p1P3/3p1P2/P2PnP2/2P2R1P/2B1R2K b - - 4 25
+Moves: e3g2 f2g2 g6g2 h1g2
+Rating: 1698
+--------------------
+FEN: r3kbnr/p2n2pp/2pp2q1/4P2b/2P1Pp2/P1N2N1P/4BP1R/1RBQK3 b kq - 0 21
+Moves: d7e5 f3e5 g6g1 e1d2 g1d1 e2d1
+Rating: 1964
+--------------------
+FEN: 5rk1/1p4pp/p7/3R1N2/4rn2/6KP/PPR2PP1/8 w - - 1 34
+Moves: d5d4 f4e2 c2e2 e4e2
+Rating: 1524
+--------------------
+FEN: 3r1rk1/1p3p1p/p1q1b1p1/4P2P/2p2P2/P5R1/2Q1B1P1/3R2K1 b - - 1 25
+Moves: e6f5 c2f5 d8d1 e2d1
+Rating: 1629
+--------------------
+FEN: r4rk1/4qp2/p2p2np/1p3b1Q/2p1P3/2P5/PPB3PP/RN2R1K1 b - - 0 20
+Moves: e7h4 h5h4 g6h4 e4f5
+Rating: 1735
+--------------------
+FEN: 4rr1k/p1p3p1/1p1p2qp/2nQ4/2P4P/P3R1B1/1P3PP1/2K1R3 w - - 7 24
+Moves: h4h5 c5b3 e3b3 e8e1
+Rating: 1743
+--------------------
+FEN: 8/5kpp/2p2p2/P1Bpn3/1P6/7P/r4PP1/4R1K1 b - - 2 31
+Moves: f7e6 f2f4 e6f5 f4e5
+Rating: 1579
+--------------------
+FEN: 3r4/ppq3kp/2p1Qpp1/2P1b3/1P1rRp2/P4P1P/2B3P1/4R1K1 b - - 6 31
+Moves: c7d7 e4e5 f6e5 e6e5 g7g8 c2b3
+Rating: 1902
+--------------------
+FEN: 2r4r/1b4k1/2q1p1p1/2p5/1p1pR1QP/pP1P1PP1/P1P5/4R1K1 b - - 0 30
+Moves: h8h6 e4e6 c6f3 e6e7 g7f8 e1f1 f3f1 g1f1 f8e7 g4g5 e7d7 g5h6
+Rating: 1982
+--------------------
+FEN: 1k1r1b1r/n1p3p1/p5p1/1pn1P3/P2B2Pq/2P2Q1P/1PB1K3/R6R b - - 0 24
+Moves: c5e6 d4a7 b8a7 a4b5 d8d2 e2d2
+Rating: 1940
+--------------------
+FEN: 7R/8/8/P5p1/5k2/1KP3r1/7p/8 b - - 1 51
+Moves: g3g2 a5a6 g2e2 a6a7
+Rating: 1509
+--------------------
+FEN: r2q1rk1/4N1bp/p2p2p1/2p3N1/Pp4P1/1Q5P/1P1n1P2/5RK1 b - - 0 21
+Moves: g8h8 b3g8 f8g8 g5f7
+Rating: 1532
+--------------------
+FEN: 2kr2r1/ppq1bbBQ/2p1p3/2npP3/8/2P2N2/PPB2PPP/R4RK1 w - - 3 21
+Moves: g7f6 e7f6 e5f6 g8h8
+Rating: 1643
+--------------------
+FEN: 2r3k1/1p2n1p1/p2b2r1/3q1pPQ/3Pp1P1/1P2B2R/P6P/5RK1 b - - 0 22
+Moves: c8f8 h5h7 g8f7 g4f5 f7e8 f5g6 f8f1 g1f1
+Rating: 1638
+--------------------
+FEN: q2r2k1/5pbp/p5p1/1p6/2pP1P2/P1N1P1Pb/1P1B1R1P/1Q4K1 b - - 4 21
+Moves: d8d4 e3d4 g7d4 b1e4 a8e4 c3e4
+Rating: 1987
+--------------------
+FEN: 2R5/p4ppk/1p6/6Q1/8/7P/q4PPK/4r3 b - - 0 35
+Moves: a2e6 g5h5 e6h6 h5f7
+Rating: 1961
+--------------------
+FEN: 4r1kb/3q1p1p/1p1p1PpB/p2P4/2Pp4/6Q1/1P4PP/5RK1 b - - 2 26
+Moves: e8e3 h6e3 d4e3 g3e3
+Rating: 1610
+--------------------
+FEN: 8/8/3k4/1p6/1Pp1K3/2P5/8/8 b - - 2 54
+Moves: d6c6 e4e5 c6d7 e5d5
+Rating: 1887
+--------------------
+FEN: 3rr1k1/1p3pq1/p1n1b2p/2b3p1/Q7/P2BPNB1/1P3PPP/R2R2K1 w - - 0 20
+Moves: b2b4 d8d3 d1d3 g7a1
+Rating: 1714
+--------------------
+FEN: 2r3k1/4pp2/3p1bp1/1p6/1Pr1P1Q1/P3q1P1/6BP/1R2R2K b - - 4 23
+Moves: c4c1 g4c8 c1c8 e1e3
+Rating: 1609
+--------------------
+FEN: 5q2/3r4/P1k2p1p/1p2pNp1/2b1P1P1/2P2P1P/3r2BK/R5Q1 b - - 4 40
+Moves: f8c5 g1c5 c6c5 a6a7 d7a7 a1a7 c4f1 f5e3 f1g2 e3g2
+Rating: 1615
+--------------------
+FEN: 1q5r/p3kpp1/2Q1p2p/3pP2P/2n3P1/2N2P2/PrP5/K3R1NR w - - 0 26
+Moves: g1e2 b2a2 c3a2 b8b2
+Rating: 1512
+--------------------
+FEN: 2r2r1k/3b3n/p6q/1p1nN3/7P/3P2Q1/PPP2P2/1K4RR b - - 0 30
+Moves: d7f5 g3g8 f8g8 e5f7
+Rating: 1855
+--------------------
+FEN: r2q1rk1/1ppb1ppp/1p1p1n2/4p3/1PBnP3/P2P1N1P/2P2PP1/R1BQK2R w KQ - 0 11
+Moves: c2c3 d7a4 c3d4 a4d1
+Rating: 1735
+--------------------
+FEN: r7/7p/1p1p1kp1/1P2p3/2BpPp2/2nP1P1P/1R3KP1/8 b - - 0 38
+Moves: a8a2 b2a2 c3a2 c4a2
+Rating: 1892
+--------------------
+FEN: 3r2k1/p4p1p/1p3qp1/3B1b2/8/1Qr1PP1P/P2R1KP1/7R w - - 0 23
+Moves: d5f7 g8g7 b3c3 f6c3
+Rating: 1815
+--------------------
+FEN: q3k1nr/1pp1nQpp/3p4/1P2p3/4P3/B1PP1b2/B5PP/5K2 b k - 0 17
+Moves: e8d7 a2e6 d7d8 f7f8
+Rating: 1695
+--------------------
+FEN: r4rk1/1pp2pbp/2n1bnp1/2q1p3/4P3/1NP2PB1/PQ4PP/1KNR1B1R b - - 0 17
+Moves: c5b6 g3f2 c6d4 c3d4
+Rating: 1756
+--------------------
+FEN: r3r1k1/pp3R2/3p1B1P/2pP1b2/1qn5/2N5/PP2QPP1/2K4R w - - 1 24
+Moves: f7f8 g8f8 h6h7 f5h7
+Rating: 1995
+--------------------
+FEN: r4rk1/pbpp2p1/1pn3Qp/3N4/3q1N2/3B4/PP3PPP/5RK1 b - - 5 20
+Moves: c6e5 d5e7 g8h8 g6h7
+Rating: 1606
+--------------------
+FEN: r3r2k/pp1q1pp1/2p1p2B/2Pb4/PP1n2P1/3B3Q/5P1P/2RR2K1 b - - 0 28
+Moves: f7f5 h6e3 h8g8 e3d4
+Rating: 1898
+--------------------
+FEN: 6k1/ppqn1rp1/2p3Qp/3p1N2/3P1bP1/2P4P/PP1N1P2/R5K1 w - - 4 21
+Moves: d2f3 d7f8 g6h5 g7g6
+Rating: 1841
+--------------------
+FEN: 6k1/p4rp1/8/2p1Bq1p/2P1b3/2P3QP/P5P1/4R1K1 w - - 0 30
+Moves: g1h2 h5h4 g3h4 f5e5
+Rating: 1553
+--------------------
+FEN: 2kr4/2pR4/2P1K1P1/8/8/p3n3/8/8 b - - 1 49
+Moves: a3a2 d7d8 c8d8 g6g7 a2a1q g7g8q
+Rating: 1891
+--------------------
+FEN: 2k3rr/ppp2p2/3b1p2/2pP1q1p/2P2B2/2N2B1b/PP1Q1PP1/R3R1K1 w - - 4 19
+Moves: f4d6 f5f3 e1e8 c8d7
+Rating: 1824
+--------------------
+FEN: 2kr1bnr/2p2p1p/1pbq2pP/p3N3/P2P4/4B3/1PP2PP1/RN1QK2R b KQ - 0 16
+Moves: c6g2 d1g4 f7f5 g4g2
+Rating: 1524
+--------------------
+FEN: 5rk1/3nppbp/1rpp2p1/p1q5/P3PP2/1PNQ4/2PB2PP/3R1RK1 w - - 1 20
+Moves: d2e3 c5c3 d3c3 g7c3 e3b6 d7b6
+Rating: 1602
+--------------------
+FEN: 2Q1k3/4qpp1/2pr4/2Np4/3P4/7P/P1P3P1/6K1 b - - 4 34
+Moves: e7d8 c5b7 d8c8 b7d6 e8d7 d6c8
+Rating: 1987
+--------------------
+FEN: 3R4/p4pkp/2p5/6p1/1P1B4/r3PP2/2r3PP/5K2 b - - 6 31
+Moves: g7g6 d8d6 f7f6 d6f6 g6g7 f6c6
+Rating: 1809
+--------------------
+FEN: 4n1k1/5r2/p1r1p2Q/1p1qP1p1/8/5PP1/P3n1KP/1RB2R2 b - - 0 27
+Moves: c6c2 h6g6 e8g7 g6c2 f7f3 f1f3
+Rating: 1870
+--------------------
+FEN: 1r3rk1/p4p2/2pq3p/4p1p1/4Pnb1/2PB1PB1/P1Q3PP/3R1RK1 b - - 0 18
+Moves: d6c5 g3f2 c5a3 f3g4 b8b2 c2c1
+Rating: 1576
+--------------------
+FEN: r3r3/2q1b1pk/p3P1Np/5Qp1/8/3p4/PPp2P2/2R1R1K1 b - - 1 30
+Moves: d3d2 g6f8 h7g8 f5h7 g8f8 h7h8
+Rating: 1968
+--------------------
+FEN: rn2kbnr/pp2pp1p/1q2b1p1/3pP3/N2P4/5N2/PP3PPP/R1BQKB1R b KQkq - 3 8
+Moves: b6b4 c1d2 b4a4 d1a4
+Rating: 1745
+--------------------
+FEN: 5rk1/pR1Q1ppp/4N3/3p1n2/8/7P/q1r2PP1/4R1K1 b - - 0 28
+Moves: c2f2 d7f7 f8f7 b7b8 f7f8 b8f8
+Rating: 1552
+--------------------
+FEN: 3r2k1/pp3pp1/7p/b7/2b3Q1/P2qPN1P/3N1PP1/3RK2R w K - 0 30
+Moves: f3e5 a5d2 d1d2 d3d2
+Rating: 1648
+--------------------
+FEN: 1r4k1/5p1p/3R2p1/1qN5/3Qp3/7P/5PPK/1r6 b - - 0 35
+Moves: b1b4 d6d8 b8d8 d4d8 g8g7 c5d7
+Rating: 1634
+--------------------
+FEN: r2qr1k1/p4ppp/2p2n2/3p2B1/6b1/2NQ1N1P/PPP2bP1/2KR3R b - - 0 14
+Moves: e8e3 g5e3 f2e3 d3e3
+Rating: 1898
+--------------------
+FEN: 3r1rk1/1b1n1qn1/pp1Q2p1/2p3Pp/P1P1Pp1N/2P2B1P/5B1K/R4R2 b - - 1 25
+Moves: d7e5 d6e5 d8e8 e5d6
+Rating: 1944
+--------------------
+FEN: 3r4/1pB3kp/2b1Pp2/1pN2RpK/1P6/7P/6r1/8 w - - 0 34
+Moves: c7d8 c6e8
+Rating: 1532
+--------------------
+FEN: 2k3rr/ppp2p1p/2b5/4Nn2/3p1Q2/1P2P1Pq/P1PP1P1P/RN3RK1 w - - 0 18
+Moves: e3e4 f5h4 f4h4 h3h4
+Rating: 1881
+--------------------
+FEN: r1b1k2r/p4p1p/2p1p3/1pR1Pp2/qn1P4/2Q2N1P/5PP1/1B3RK1 b kq - 0 19
+Moves: b4d5 c5d5 c6d5 c3c6
+Rating: 1599
+--------------------
+FEN: 1k5r/ppq2p2/2pN4/4PBb1/2P2pp1/1P5r/P1Q3KP/3RR3 w - - 5 28
+Moves: e1h1 f4f3 g2f1 g4g3 f5h3 h8h3
+Rating: 1949
+--------------------
+FEN: r7/pRp2pkp/3p1pr1/4pQ2/3bP3/5PB1/P1q3PP/1R5K b - - 1 22
+Moves: d4f2 b7b2 c2b2 b1b2
+Rating: 1904
+--------------------
+FEN: r3qrk1/p6p/1p2pbp1/3pn3/3Q2P1/P6R/1B3P2/1B4KR b - - 1 28
+Moves: e5g4 d4g4 f6b2 h3h7
+Rating: 1976
+--------------------
+FEN: r3rbk1/1p1n1ppp/p2p4/q1pP4/4RP2/1P1B1Q1P/1BP3P1/5RK1 b - - 0 18
+Moves: e8e4 f3e4 g7g6 f4f5
+Rating: 1686
+--------------------
+FEN: r2q1rk1/pb3ppp/1p2p3/2nn4/8/P1N1PN2/1P1Q1PPP/1BR1K2R b K - 1 13
+Moves: c5b3 d2c2 g7g6 c2b3
+Rating: 1742
+--------------------
+FEN: rn1q1r1k/pb2n1pp/1p2Qp2/2pp2B1/1bPP4/2NB1N2/PP3PPP/R4RK1 w - - 2 12
+Moves: g5e3 b7c8 e6e7 d8e7
+Rating: 1790
+--------------------
+FEN: 8/3r3p/pp1pk1pP/2rR1pP1/P1PRpP2/1P2P3/4K3/8 b - - 1 37
+Moves: c5d5 c4d5 e6e7 d4c4
+Rating: 1953
+--------------------
+FEN: r2qk1nr/p1pbb1pp/4p3/2pp1P2/2B5/8/PPP1Q1PP/RNB2RK1 b kq - 0 13
+Moves: d5c4 e2h5 g7g6 f5g6
+Rating: 1811
+--------------------
+FEN: 3R2k1/4r2p/pp2r1p1/1p2P1P1/2p5/P3n3/1P5P/5RK1 b - - 1 36
+Moves: g8g7 f1f8 e7a7 f8g8
+Rating: 1854
+--------------------
+FEN: 1r1q1rk1/pb3pbp/1p1pnnp1/1Np5/2P5/PP3NP1/1B3PBP/Q1RR2K1 b - - 5 20
+Moves: d6d5 c4d5
+Rating: 1587
+--------------------
+FEN: r1r3k1/4pp1p/3p2p1/8/q2bPP2/1N1R4/1PP2QPP/1K3R2 w - - 0 26
+Moves: d3d4 a4a2 b1c1 a2b3
+Rating: 1551
+--------------------
+FEN: r5k1/p1pN1p2/1p1b2p1/3p1n2/3P4/2P3Pq/P2Q1P1P/1R2R1K1 w - - 3 23
+Moves: e1e2 f5h4 d7f6 g8g7
+Rating: 1935
+--------------------
+FEN: 2r5/1p4bk/p2q2p1/3p1bQn/3B4/P1NP1N1P/1P6/K3R3 b - - 0 33
+Moves: g7h6 e1e7 h7g8 g5h6
+Rating: 1595
+--------------------
+FEN: r7/pp1Qp1B1/8/3kb3/4q3/8/PP3PP1/5K2 b - - 4 34
+Moves: e5d6 d7b7 d5e6 b7e4
+Rating: 1552
+--------------------
+FEN: 8/1p6/1Pr2P2/1Rp3K1/3p4/4k3/8/8 b - - 0 44
+Moves: c6f6 g5f6 c5c4 b5e5
+Rating: 1720
+--------------------
+FEN: 8/p1B1Q2p/1p3pk1/6p1/3P2P1/2P1nP1K/P3q2P/8 w - - 9 36
+Moves: e7e4 g6h6 e4e3 e2e3
+Rating: 1560
+--------------------
+FEN: r4rk1/1q1p2pp/p1b1p3/2p1Q3/8/1B6/PPP2PPP/3RR1K1 b - - 0 21
+Moves: c6g2 d1d7 b7d7 b3e6 g8h8 e6d7
+Rating: 1776
+--------------------
+FEN: 5r2/1pp4k/p1n1p2p/3p2p1/3P2P1/2P2q2/PP1Q1P2/1K3R1R w - - 5 31
+Moves: d2g5 f3d3 b1c1 d3f1 h1f1 h6g5
+Rating: 1653
+--------------------
+FEN: 8/p2n1k2/5P2/5KPP/2P5/8/n7/8 b - - 1 49
+Moves: a2c3 g5g6 f7f8 h5h6
+Rating: 1975
+--------------------
+FEN: 8/8/7p/7P/2k2Kp1/6P1/8/8 b - - 5 46
+Moves: c4d5 f4f5 d5d4 f5g6
+Rating: 1811
+--------------------
+FEN: 7r/6p1/1pp5/p3N1k1/2P3p1/5K1P/8/7R w - - 0 35
+Moves: f3g3 h8h3 h1h3 g4h3
+Rating: 1614
+--------------------
+FEN: k2r3r/ppq3pb/2p1Pp1p/8/1b1N2P1/3P3P/PB1N2Q1/2KR3R w - - 0 22
+Moves: d2c4 c7f4 c1b1 d8d4 b2d4 f4d4
+Rating: 1927
+--------------------
+FEN: 8/1p1k4/8/p1p5/P4P2/8/5PK1/8 w - - 0 43
+Moves: g2f3 b7b5 a4b5 a5a4 f3e4 a4a3
+Rating: 1906
+--------------------
+FEN: 8/6pk/8/R7/5Pp1/p5P1/7P/r3K3 w - - 2 46
+Moves: e1d2 a3a2 d2c3 a1c1
+Rating: 1580
+--------------------
+FEN: 1r1q1rk1/1b2bppp/p7/1p1ppP2/3pP1Q1/P2P2P1/BPP4P/R1B2RK1 b - - 1 16
+Moves: d5e4 c1h6 e7f6 h6g7 f6g7 f5f6 d8f6 f1f6
+Rating: 1791
+--------------------
+FEN: 8/8/5pk1/1p4pp/1P6/2P3PP/3K4/8 b - - 0 39
+Moves: g5g4 h3g4 h5h4 g3h4
+Rating: 1857
+--------------------
+FEN: 8/pp4k1/2b2pr1/3r1R2/PP1Q4/8/7P/7K w - - 0 31
+Moves: f5d5 g6g5 h2h4 g5d5 d4d5 c6d5
+Rating: 1653
+--------------------
+FEN: 2k4r/ppp1q1p1/3b2p1/3Q4/1P2NPn1/P1P3N1/6P1/R1B2RKr w - - 5 21
+Moves: g3h1 h8h1 g1h1 e7h4 h1g1 h4h2
+Rating: 1639
+--------------------
+FEN: 3r3k/1Qp3p1/p4q1p/8/3n4/5N2/PPP2PPP/2K1R3 w - - 1 23
+Moves: f3d4 f6d4 a2a3 d4d2 c1b1 d2e1
+Rating: 1877
+--------------------
+FEN: r2qkr2/npp2pQ1/p1b1pP1B/3n4/1P6/P1N5/5PPP/R4RK1 b q - 1 24
+Moves: d8d6 c3e4 e8c8 e4d6
+Rating: 1781
+--------------------
+FEN: r2k1bnr/p1pp1Bpp/1p3q2/4N1B1/3p4/2P5/PP2QPbP/RN2K2R b KQ - 2 10
+Moves: f6g5 e5c6 g2c6 e2e8
+Rating: 1701
+--------------------
+FEN: 4r3/pp3kp1/5q2/3P3R/8/2b3PP/P3QP1K/3R4 w - - 1 34
+Moves: e2c4 f6f2 h2h1 f2f3
+Rating: 1733
+--------------------
+FEN: 2r1r1k1/5p2/p3p3/1p1p4/3PnQP1/2P4R/PPqN1K2/R7 w - - 1 27
+Moves: f2g1 c2d2 f4d2 e4d2
+Rating: 1662
+--------------------
+FEN: q4r1k/5pbp/2Np1np1/3P2B1/pQb5/5B2/P4PPP/4R1K1 b - - 1 23
+Moves: c4d5 g5f6 d5c6 f6g7 h8g7 b4c3
+Rating: 1930
+--------------------
+FEN: r5k1/p3Rppp/1p6/1b6/7P/4P1P1/5PB1/6K1 b - - 2 29
+Moves: g8f8 e7e5 a8b8 e5b5
+Rating: 1754
+--------------------
+FEN: 8/8/8/3pp3/5P1R/r3k3/6K1/8 b - - 0 51
+Moves: e5f4 h4h3 e3e2 h3a3 d5d4 a3a2
+Rating: 1560
+--------------------
+FEN: r2q3r/5k2/R2Pp3/1pbR2pp/8/1P4B1/1P2QPPP/6K1 b - - 0 22
+Moves: e6d5 a6a8 d8a8 e2e7 f7g6 e7e6
+Rating: 1969
+--------------------
+FEN: r2qkb1r/ppp2pp1/2n1p2p/5n1b/3P1B2/P1N2N1P/1PPQBPP1/R3K2R b KQkq - 2 11
+Moves: f5d4 f3d4 c6d4 e2h5
+Rating: 1728
+--------------------
+FEN: 5r1k/ppb2Bp1/1qr4p/6P1/P6P/2P1P3/1P3Q2/R1B2RK1 w - - 1 28
+Moves: g5g6 c6g6 f7g6 f8f2 f1f2 b6g6
+Rating: 1593
+--------------------
+FEN: r1bqk2r/pp4pp/3b1B2/3pNn2/4p3/2N5/PPP2PPP/R2QKB1R b KQkq - 0 11
+Moves: g7f6 d1h5 e8f8 h5f7
+Rating: 1760
+--------------------
+FEN: 1k1r3r/1p6/2b5/2p2p2/1bP5/1P3N1p/RP6/1KBR4 w - - 2 29
+Moves: d1d8 h8d8 c1f4 b8c8 a2a8 c8d7 f3e5 d7e8 a8d8 e8d8
+Rating: 1630
+--------------------
+FEN: 1knq2rr/pp1b1R2/2p1p3/P2pP3/1P1P1Q1P/2PB2P1/7P/R5K1 b - - 0 25
+Moves: h8h4 f7d7 h4f4 d7d8 g8d8 g3f4
+Rating: 1900
+--------------------
+FEN: rn4k1/pbpp2pp/1p2p2r/3P4/2P1Pp2/2BB1PqP/PP4P1/R2QRK2 b - - 2 16
+Moves: e6d5 e4d5 h6h3 e1e8 g8f7 g2h3
+Rating: 1952
+--------------------
+FEN: 5rk1/2Q2ppp/8/p3P1q1/3N4/P6r/5P2/2R1RK2 w - - 0 33
+Moves: f1e2 g5g4 f2f3 g4d4
+Rating: 1620
+--------------------
+FEN: r4qk1/pppb2p1/1bnp1R2/6N1/8/2NQ2B1/PP4PP/7K b - - 0 19
+Moves: f8f6 d3h7 g8f8 h7h8 f8e7 c3d5
+Rating: 1849
+--------------------
+FEN: r3k2r/1p3ppp/p4n2/3PpbB1/1n6/2N5/PP2PPPP/R2K1B1R b kq - 4 12
+Moves: f6d5 e2e4 d5c3 b2c3
+Rating: 1761
+--------------------
+FEN: 5q1k/pr4pp/2p4B/8/3Q3P/2P5/P1PK4/4R3 w - - 5 30
+Moves: d4e5 b7d7 d2e2 d7e7 e5e7 f8e7
+Rating: 1513
+--------------------
+FEN: 2Q5/1p4pk/p6p/2P5/P5KP/1q4P1/8/8 w - - 2 52
+Moves: c5c6 b3a4 g4h3 a4c6
+Rating: 1963
+--------------------
+FEN: r2qk2r/4bppp/p3bn2/1p2N3/5B2/2N5/PP3PPP/R2QR1K1 b kq - 1 19
+Moves: e8g8 e5c6 d8e8 c6e7 e8e7 f4d6 e7d8 d6f8
+Rating: 1938
+--------------------
+FEN: 2r1r1k1/1p3ppp/p7/3n4/1P1Pp2q/P3P2P/Q2N1PP1/R4RK1 w - - 3 20
+Moves: a1c1 d5c3 c1c3 c8c3
+Rating: 1706
+--------------------
+FEN: 5rk1/rpp2ppp/p2p4/3P2Qn/1PP2P2/P1N2P1q/7P/2R2RK1 b - - 0 21
+Moves: f7f6 g5g4 h5f4 g4f4
+Rating: 1641
+--------------------
+FEN: 2b2rk1/2Q2ppp/p3pq2/1p6/6n1/PP3PN1/6PP/3R1BK1 b - - 0 24
+Moves: g4e3 g3e4 f6h4 g2g3
+Rating: 1888
+--------------------
+FEN: 3q4/5kpp/p1p5/1p1n4/2p1Q1P1/P6P/1PPB4/1K6 w - - 0 33
+Moves: e4h7 d5f6 h7f5 d8d2
+Rating: 1729
+--------------------
+FEN: r4rk1/ppp2ppp/8/8/1P1P2nq/P1B1P2P/4NnPN/R2Q1RK1 w - - 0 18
+Moves: f1f2 h4f2 g1h1 g4e3 d1g1 f2e2
+Rating: 1649
+--------------------
+FEN: 1n6/1P2k3/p2Rbpp1/2P1p2p/P1P1P2P/4BPP1/6K1/8 w - - 2 41
+Moves: d6a6 b8a6 c5c6 e7d6
+Rating: 1585
+--------------------
+FEN: 6k1/5pp1/7p/2n5/rnN1PP2/3PK2P/6B1/2R5 w - - 3 40
+Moves: e3d4 c5b3 d4c3 b3c1
+Rating: 1515
+--------------------
+FEN: 2kr3r/1pp2p2/p2p3p/3P1bpB/2P2P2/1P2q3/P5PP/R2QR2K b - - 3 18
+Moves: e3f4 e1f1 f4e5 f1f5 e5f5 h5g4 f5g4 d1g4
+Rating: 1751
+--------------------
+FEN: 2kr4/pp3Rp1/2p1p1P1/4P3/4p3/2P5/PP6/1K6 w - - 0 28
+Moves: f7g7 e4e3 g7h7 e3e2 h7h1 d8d1
+Rating: 1590
+--------------------
+FEN: r1b2rk1/p3n1b1/6pp/q2np3/2RpNPPP/3Q3N/1PPB4/3B1RK1 b - - 3 22
+Moves: a5b5 c4c8 b5d3 c8f8 a8f8 c2d3
+Rating: 1783
+--------------------
+FEN: 8/p2Q1p2/1p3p1p/2b1k3/5P2/8/PPBr1q1P/R6K b - - 0 31
+Moves: e5f4 d7f5 f4e3 f5e4
+Rating: 1507
+--------------------
+FEN: 1n3r1k/p5pp/8/7Q/4P3/2NP4/PPPB2qP/R2KRr2 w - - 3 21
+Moves: d2e3 f1e1 d1e1 f8f1
+Rating: 1624
+--------------------
+FEN: 4r2k/p3q1p1/7p/1Rp5/2PpN3/6P1/4Q2P/6K1 w - - 1 39
+Moves: b5c5 e7c5 e4c5 e8e2
+Rating: 1734
+--------------------
+FEN: 3b2rk/p3q2p/1r3p1P/2p1nP2/2P1R2Q/1P1P4/P5P1/B4RK1 w - - 0 33
+Moves: e4e5 f6e5 h4e7 d8e7 a1e5 e7f6
+Rating: 1522
+--------------------
+FEN: 3r2k1/1q4pp/p2p2P1/1pp5/6Q1/2P5/PP1r2PP/1R2R2K b - - 0 25
+Moves: h7g6 g4g5 b7g2 g5g2 d2g2 h1g2
+Rating: 1976
+--------------------
+FEN: r5n1/1p3r1k/p5pp/4Q3/3P4/1N5P/PP4PK/R1B2q2 b - - 0 24
+Moves: a8f8 c1h6 f1a1 b3a1
+Rating: 1728
+--------------------
+FEN: 1r1q3k/4B1p1/b1r2n1p/4RB2/P1pPp3/1pQ1P3/6PP/1R4K1 b - - 1 40
+Moves: d8b6 d4d5 f6d5 e5d5
+Rating: 1983
+--------------------
+FEN: r1b1kbnr/p1ppqppp/8/1p2P3/1n1Q4/5N2/PPP1PPPP/RNB1KB1R w KQkq - 4 8
+Moves: d4e4 d7d5 e4f4 b4c2
+Rating: 1733
+--------------------
+FEN: 5r2/1p2Q3/8/pk3rK1/5P2/3P3P/8/8 w - - 2 46
+Moves: g5g6 f8f6 e7f6 f5f6 g6f6 a5a4 f4f5 a4a3 f6g6 a3a2 f5f6 a2a1q
+Rating: 1700
+--------------------
+FEN: r4rk1/pp1b1ppp/8/2bBB3/8/8/PP3PPP/R4RK1 b - - 0 16
+Moves: f8e8 d5b7 e8e5 b7a8
+Rating: 1814
+--------------------
+FEN: 2rr4/1Q3p1k/6pp/p4q2/8/2P1R1R1/P4PK1/8 b - - 5 38
+Moves: d8d2 e3f3 d2b2 b7b2
+Rating: 1963
+--------------------
+FEN: 4r1k1/4rp1p/p2p2pP/1p1P2P1/2qb1B2/PP6/2PQ1R2/1K3R2 b - - 0 29
+Moves: c4c5 f4d6 c5c3 d2c3
+Rating: 1579
+--------------------
+FEN: 3r2k1/2B3pp/1Q2Pp2/2b5/P3n3/5N2/2q2PPP/5RK1 w - - 4 32
+Moves: e6e7 c2f2 f1f2 d8d1 f3e1 d1e1
+Rating: 1845
+--------------------
+FEN: r2r2k1/pp2bppp/2n1p3/8/2BP4/4BN1q/PP3P2/2RQ1R1K w - - 6 20
+Moves: f3h2 e7d6 f2f4 h3e3
+Rating: 1560
+--------------------
+FEN: 2n1k3/p7/1q1b1p2/n3pP2/b2pP3/1p1P4/1P1BN3/3QNB1K b - - 1 26
+Moves: b6c7 d1a1 c7d7 d2a5
+Rating: 1888
+--------------------
+FEN: 8/KP3k2/8/5p2/8/8/1R2p3/2r5 w - - 0 56
+Moves: b7b8q c1a1 a7b6 e2e1q b8c7 e1e7 c7e7 f7e7
+Rating: 1816
+--------------------
+FEN: rn2k2N/p1pn3p/8/3b2B1/3p4/N7/PP4PP/4R1K1 b - - 3 21
+Moves: e8f8 g5h6 f8g8 e1e8 d7f8 e8f8
+Rating: 1831
+--------------------
+FEN: rn1q1rk1/1bppppbp/1p4pn/6N1/p1B1P3/2PP3Q/PP3PPP/RNB1K2R w KQ - 0 9
+Moves: c4f7 f8f7 g5f7 h6f7
+Rating: 1860
+--------------------
+FEN: r3k2r/pppqbppp/2n1b3/3p2PQ/1P1Pp2P/2P1P3/P4PB1/RNB1K1NR w KQkq - 1 11
+Moves: a2a4 e6g4 g2h3 g4h5 h3d7 e8d7
+Rating: 1565
+--------------------
+FEN: r5rk/1p3p1p/1b1p1p2/pP1P3q/P1P1Pn2/3B1NK1/5P2/R2Q3R w - - 8 28
+Moves: g3f4 h5g4
+Rating: 1677
+--------------------
+FEN: r4rk1/5ppp/4pn2/p1Q5/1ppP4/4PqPP/1P3P2/RNB1K1R1 w Q - 2 21
+Moves: a1a5 f6e4 c5f8 a8f8
+Rating: 1523
+--------------------
+FEN: k1r4r/2Qn1p1p/1p1Bpnp1/q7/2BP4/2P5/1PK2P1P/3R2R1 w - - 5 29
+Moves: c7c8 h8c8 d1a1 c8c4 a1a5 b6a5
+Rating: 1823
+--------------------
+FEN: 8/8/2p2kp1/ppn4p/1P1pP1qP/P5P1/2P3K1/4QB2 b - - 2 49
+Moves: g4e4 e1e4 c5e4 b4a5
+Rating: 1827
+--------------------
+FEN: r5r1/pb2kp1Q/2p5/q1b1N2P/1p2P3/8/PnP1N3/1K1R4 b - - 0 24
+Moves: b2d1 h7f7 e7d6 e5c4
+Rating: 1780
+--------------------
+FEN: Q3r3/1P6/KP1q4/5k2/8/8/8/8 b - - 0 72
+Moves: d6d8 a8d8 e8d8 a6a7
+Rating: 1576
+--------------------
+FEN: r1b2q1k/1p4pp/4pn2/2n2p2/p1BN4/P1P4P/2Q2RP1/4R1K1 b - - 5 21
+Moves: f6e4 e1e4 c5e4 c2e4
+Rating: 1661
+--------------------
+FEN: 5r1k/pp4p1/b1p1Q2p/3p4/PP1P2P1/6bP/4NPBq/R3RK2 w - - 1 29
+Moves: f2f3 f8f3 g2f3 h2f2
+Rating: 1704
+--------------------
+FEN: 2k1rb1r/ppp2qp1/4Pp1p/8/1n6/2NQ1N1P/PPP2PP1/R3R1K1 b - - 0 19
+Moves: e8e6 d3f5 g7g6 f5e6 f7e6 e1e6
+Rating: 1634
+--------------------
+FEN: rn3rk1/pp4pp/2pbbq2/3p1p1Q/3P3N/2NB4/PPP2PPP/3R1RK1 w - - 4 14
+Moves: c3e2 e6f7 h5f5 f6h4
+Rating: 1957
+--------------------
+FEN: r4rk1/1p3pp1/1p1p1q1p/1BpP4/P3Pn1n/2N2N2/1PPQ1PPK/R3R3 w - - 3 22
+Moves: f3h4 f6h4 h2g1 h4g5 d2f4 g5f4
+Rating: 1985
+--------------------
+FEN: 5rk1/ppq2ppp/3bp3/3p1nP1/3P3P/2P1B3/PP2Q1P1/R4RK1 w - - 1 19
+Moves: h4h5 d6h2 g1h1 f5g3 h1h2 g3e2
+Rating: 1516
+--------------------
+FEN: 2r3k1/p4q2/4N1pQ/1p1nP3/3P4/8/5PP1/6KR b - - 0 32
+Moves: f7e6 h6h8 g8f7 h1h7
+Rating: 1509
+--------------------
+FEN: 8/8/p7/1P2kp2/P2q2pp/KR6/1R5P/8 b - - 0 66
+Moves: a6a5 b5b6 d4d6 a3a2
+Rating: 1688
+--------------------
+FEN: 1r3k2/5b1p/3N4/3p4/pp1P4/P1p2B2/1P3PPP/2R3K1 w - - 0 31
+Moves: d6f7 c3b2 c1f1 b4a3
+Rating: 1945
+--------------------
+FEN: 7k/p5p1/8/2P1p2p/6n1/PqBQ2P1/7P/6K1 w - - 3 32
+Moves: c5c6 b3b6 c3d4 e5d4
+Rating: 1859
+--------------------
+FEN: 6rk/R7/3p1q1p/3P2pQ/1P2P3/3P1p1P/P1r3PB/1R5K w - - 0 28
+Moves: a7f7 f3g2 h1g1 f6d4 f7f2 d4f2
+Rating: 1783
+--------------------
+FEN: 3r1rk1/3PRppp/8/3Q4/p7/1P6/q5PP/4R1K1 w - - 1 29
+Moves: d5f7 f8f7 e7e8 f7f8
+Rating: 1544
+--------------------
+FEN: 2r3k1/5pp1/2P4p/2R5/1r6/6P1/p4P1P/2R3K1 w - - 2 32
+Moves: g1g2 b4b1 c5a5 b1c1
+Rating: 1565
+--------------------
+FEN: r4rk1/2p1qppp/p7/1b1QPN2/1p2N3/8/PP1K1PnP/2R4R b - - 1 22
+Moves: e7e8 e4f6 g8h8 f6e8
+Rating: 1973
+--------------------
+FEN: 3r1rk1/p1p2p2/2Q4p/2P1q1p1/3p2P1/1P2P2P/P1PK1P2/4RR2 w - - 2 23
+Moves: d2c1 d4e3 c1b1 e3e2
+Rating: 1735
+--------------------
+FEN: 4r3/4bpkp/3p2pN/4P1P1/1p2qn1P/5N2/1P1Q1P2/3R2K1 w - - 0 30
+Moves: e5d6 e4f3 d2d4 f7f6
+Rating: 1875
+--------------------
+FEN: 8/1p4k1/1p1p4/2p1p2K/P1P1P3/1P1P4/8/8 b - - 0 38
+Moves: g7f6 h5h6 f6e6 h6g6 e6e7 g6g7
+Rating: 1953
+--------------------
+FEN: 4rr2/p4k2/1pnp1Pp1/7p/7N/1P1Pq1P1/P1P3QP/5R1K b - - 4 24
+Moves: c6d4 g2d5 d4e6 d5b7 e6c7 b7c7
+Rating: 1656
+--------------------
+FEN: r7/q1pb1pbk/3p2pp/3P4/2Pp2P1/2BP3P/2Q2PB1/R5K1 b - - 8 24
+Moves: a7a1 c3a1 a8a1 g2f1
+Rating: 1923
+--------------------
+FEN: 7k/pp4pp/6q1/2P5/3Bp2n/2Pn1rPP/PP2QP2/R4RK1 w - - 1 20
+Moves: g1h2 d3f4 f1e1 f4e2
+Rating: 1928
+--------------------
+FEN: 8/p7/6p1/P1KR1k1p/1P2r3/8/8/8 b - - 2 52
+Moves: e4e5 d5e5 f5e5 b4b5
+Rating: 1931
+--------------------
+FEN: b1r2rk1/R5pp/1p6/3p4/4pP2/1q2N2P/4Q1PK/5R2 b - - 2 30
+Moves: d5d4 e2g4 a8b7 a7b7
+Rating: 1829
+--------------------
+FEN: 2k2r2/1bNp4/pB1P4/8/P7/4Kn2/1P3R1p/5R2 w - - 0 43
+Moves: e3e2 f3g1 e2d2 f8f2 b6f2 h2h1q
+Rating: 1904
+--------------------
+FEN: r4rk1/1bqnbp1p/p3p1p1/1p1nP3/2p1B3/2P2N2/PP3PPP/R1BQRNK1 b - - 5 16
+Moves: d7e5 e4d5
+Rating: 1748
+--------------------
+FEN: r4rk1/pppbq1pp/1b3p2/3Bp2R/3P4/2P3P1/PP3P1P/R1BQ2K1 b - - 0 16
+Moves: g8h8 h5h7 h8h7 d1h5
+Rating: 1609
+--------------------
+FEN: r1b2r1k/1ppn1pp1/p2p3p/4p3/1P2q3/PBP2N1P/2P2PP1/R2Q1RK1 b - - 1 14
+Moves: f7f5 b3d5 e4d5 d1d5
+Rating: 1589
+--------------------
+FEN: r2r2k1/4qppp/8/1Q6/Rp1P4/1P4P1/K1P4P/5R2 w - - 0 31
+Moves: a4a8 d8a8 a2b2 e7a7 b5b4 a7a2 b2c3 a8c8
+Rating: 1786
+--------------------
+FEN: r1b2rk1/1p2ppbp/pqNp2p1/8/2P1nP2/2N1B3/PP1QB1PP/R4RK1 b - - 0 14
+Moves: e4d2 c6e7 g8h8 e3b6
+Rating: 1565
+--------------------
+FEN: r6k/4rpp1/n1P4p/1n3R2/4pB1P/8/5PP1/R5K1 b - - 0 45
+Moves: a6c7 a1a8 c7a8 f5b5
+Rating: 1562
+--------------------
+FEN: r7/ppp1kp1r/4n2R/4P1p1/6P1/2q1B2Q/P6P/5RK1 b - - 0 30
+Moves: h7h6 e3g5 e6g5 h3c3
+Rating: 1632
+--------------------
+FEN: 3r2k1/p4pp1/1p4qp/2pNp2n/2P1P3/5P1P/PP3QP1/3R2K1 b - - 0 26
+Moves: g6d6 f2h4 h5f6 d5f6
+Rating: 1781
+--------------------
+FEN: 2k4r/1ppq1pp1/p2p1b2/4p3/2BnP1p1/P1NP2Pr/1PP2PKN/R2Q3R w - - 0 16
+Moves: d1g4 h3h2 h1h2 h8h2 g2h2 d7g4
+Rating: 1750
+--------------------
+FEN: 2r1r1k1/1p2b1p1/p2p1pPp/2nPpP1Q/3pP3/1P1q3P/P2B2B1/R4RK1 w - - 0 22
+Moves: d2h6 g7h6 h5h6 d3e3 h6e3 d4e3
+Rating: 1833
+--------------------
+FEN: k1r5/P1p5/3p1p1r/3Pp2p/4P3/8/3N2PP/R5K1 b - - 1 35
+Moves: c7c6 d2c4 h6h8 c4b6 a8b7 b6c8
+Rating: 1753
+--------------------
+FEN: r6k/6pp/p7/1p6/Q1b5/7P/Pq4P1/R3R2K w - - 0 28
+Moves: a4a5 c4d5 e1g1 d5g2 g1g2 b2a1
+Rating: 1653
+--------------------
+FEN: 8/8/3r3p/p1P1k3/4pp2/PPKp4/6PR/8 b - - 0 40
+Moves: d3d2 h2h5 e5e6 h5h6
+Rating: 1723
+--------------------
+FEN: 6k1/1p6/p2p1N2/P1pPp3/2P1Pbp1/1P6/6K1/8 b - - 0 42
+Moves: g8g7 f6e8 g7f8 e8d6
+Rating: 1860
+--------------------
+FEN: 3r3r/2k2ppp/p1n1p3/8/PpR5/3P4/1P2NPPP/4R1K1 b - - 2 21
+Moves: d8d3 e1c1 d3d6 e2d4 d6d4 c4d4
+Rating: 1670
+--------------------
+FEN: r4rk1/pbp2ppp/1pNbp3/1B2n3/Q2P4/4PqP1/PP3P1P/RNB2RK1 b - - 0 13
+Moves: e5c6 b1d2 f3d5 e3e4 d5d4 b5c6 d4a4 c6a4
+Rating: 1837
+--------------------
+FEN: 8/r7/P1p5/3p4/3K2k1/1P5p/2P5/R7 b - - 1 44
+Moves: g4g3 d4c5 h3h2 c5b6
+Rating: 1674
+--------------------
+FEN: 5k2/1p1r1p2/p1p4p/2Pn2p1/N2R4/1P4P1/P4PKP/8 w - - 0 29
+Moves: a4b2 d5f4 d4f4 g5f4
+Rating: 1582
+--------------------
+FEN: 3r2k1/p3qpp1/1pQ2n1p/3r4/3Bp3/P1P3P1/1P2bPBP/R4RK1 w - - 5 24
+Moves: f1e1 e2b5 d4f6 g7f6 c6d5 d8d5
+Rating: 1850
+--------------------
+FEN: 1r4k1/6pp/4p3/QBR2p2/3q4/B3nP1P/P5P1/6K1 w - - 0 35
+Moves: a5a7 e3g4 g1h1 d4d1 b5f1 d1f1
+Rating: 1904
+--------------------
+FEN: 2r2k2/1bR2pp1/7p/1Bnp1N2/8/7P/2P2PP1/6K1 w - - 4 33
+Moves: c7e7 g7g6 e7b7 c5b7
+Rating: 1668
+--------------------
+FEN: 8/5pk1/5b2/P5p1/6Pp/3R3K/R1P1r2P/8 w - - 0 45
+Moves: a5a6 f6e5 d3g3 h4g3
+Rating: 1697
+--------------------
+FEN: q4rk1/pRPQ1p2/b3p2p/3pP1p1/8/2P1P1P1/5PP1/6K1 w - - 0 31
+Moves: c7c8q a8c8 d7c8 f8c8
+Rating: 1771
+--------------------
+FEN: r3k2r/pp2qpp1/2n1b2p/8/3PR3/2P2NP1/PPQ2PP1/2K4R b kq - 0 16
+Moves: e8g8 d4d5 c6b4 e4b4
+Rating: 1606
+--------------------
+FEN: 5k2/2r3b1/p2pPr2/1pqP2Q1/8/P7/1PPR4/1K5R b - - 0 32
+Moves: c5c4 d2f2 c4d4 h1f1
+Rating: 1688
+--------------------
+FEN: 1r2r1k1/2p2pbp/pp5q/5p2/4p3/1PPnP1PP/PB2QPB1/R4RK1 b - - 4 22
+Moves: h6c6 e2d3 e4d3 g2c6
+Rating: 1515
+--------------------
+FEN: 3r1k2/1b3ppQ/p2q3p/1p2b3/8/P2p2P1/1P3P1P/1BR1R1K1 w - - 0 31
+Moves: c1d1 d6d5 h7h8 f8e7 e1e5 d5e5 h8d8 e7d8
+Rating: 1691
+--------------------
+FEN: 5r1k/1p4qp/2b1prp1/3p2Q1/p4P1R/3B2P1/2P4P/1R4K1 b - - 0 30
+Moves: g7e7 d3g6 e7c5 g1f1 f6g6 g5g6
+Rating: 1585
+--------------------
+FEN: r3r1k1/pp2qp1p/3b2p1/3p4/3P2n1/1PN5/PBP1BPPP/R2QK2R w KQ - 6 15
+Moves: h2h3 g4f2 e1f2 e7e3 f2f1 d6g3
+Rating: 1965
+--------------------
+FEN: 8/8/8/4kp1p/7P/4K1P1/8/8 b - - 0 45
+Moves: e5f6 e3f4 f6e6 f4g5 e6e5 g5h5 e5f6 h5h6 f5f4 g3f4
+Rating: 1594
+--------------------
+FEN: 4r3/3NP1kp/2p2Rp1/5p2/8/2rp3P/5PP1/4R1K1 w - - 2 34
+Moves: f6f8 d3d2 e1d1 c3c1 g1h2 c1d1
+Rating: 1630
+--------------------
+FEN: r1b2rk1/ppp2p1p/6p1/1N1P2q1/1PPbBp2/6n1/1P2Q1PP/R1B2R1K w - - 5 18
+Moves: h2g3 g5h6 e2h5 h6h5
+Rating: 1629
+--------------------
+FEN: r3rk2/pppqn1pQ/6P1/4p1P1/4Pp2/1PP5/P4P2/RNB1K3 b Q - 0 20
+Moves: d7g4 h7h8 e7g8 c1a3 e8e7 a3e7 f8e7 h8g7
+Rating: 1638
+--------------------
+FEN: 2r4r/6b1/8/1b1pPQ1k/2p2P2/4P3/PP1B3q/2K5 b - - 7 33
+Moves: h5h4 d2e1 h2g3 f5g5 h4h3 g5g3
+Rating: 1989
+--------------------
+FEN: 6k1/p1p2pp1/1p1b3p/3Pq3/2P5/5Q1P/P1R3P1/7K w - - 3 31
+Moves: c2f2 e5h2
+Rating: 1670
+--------------------
+FEN: 5rk1/p4ppp/1pQ5/2b1P3/8/P4N2/1Pq2PPP/4R1K1 w - - 1 28
+Moves: c6b5 c5f2 g1f1 f2e1
+Rating: 1763
+--------------------
+FEN: r2q1rk1/pp2nppp/2pp4/3Np1N1/2P1Q3/3P4/PP3KPP/R1B5 b - - 3 14
+Moves: f7f5 e4h4 h7h6 g5e6
+Rating: 1875
+--------------------
+FEN: 8/8/7p/p1r3p1/2PKpkP1/7P/4R3/8 b - - 2 40
+Moves: c5e5 e2f2 f4g3 d4e5 g3f2 e5e4
+Rating: 1888
+--------------------
+FEN: r2q1rk1/pp2ppbp/6p1/n1p1N3/2bP1P2/3B4/PP1B2PP/R3QRK1 w - - 0 15
+Moves: e5c4 a5c4 d3c4 d8d4 f1f2 d4c4
+Rating: 1852
+--------------------
+FEN: 8/1q4p1/6kp/3BQ3/5pP1/6b1/4p1K1/8 b - - 17 47
+Moves: e2e1n g2h3 b7d5 e5d5
+Rating: 1958
+--------------------
+FEN: r2qk2r/ppp1bppp/2n1pn2/2Pp1b2/3P4/P1NBPN2/1P3PPP/R1BQK2R b KQkq - 2 8
+Moves: b7b6 d3b5 e8g8 b5c6
+Rating: 1634
+--------------------
+FEN: 6rk/pp2PQp1/2p4p/8/4b2b/4n1qP/PP3RP1/4B1K1 b - - 0 28
+Moves: e3g2 f7g8
+Rating: 1598
+--------------------
+FEN: 1r3rk1/p3R2p/3p2pQ/3q4/3b4/3p4/PP3PPP/1RB4K b - - 3 22
+Moves: f8f2 h6h7 g8f8 c1h6 d4g7 h7g7
+Rating: 1553
+--------------------
+FEN: r4rk1/pp3pbp/6p1/4p3/4P1bP/2NPBn2/PP2KP2/R4B1R w - - 1 16
+Moves: f1h3 f3g1 e2d2 g1h3
+Rating: 1816
+--------------------
+FEN: r7/2p2pk1/q4np1/3PQ3/4P3/5PPp/2R2NKP/8 w - - 0 34
+Moves: g2h3 a6f1 h3h4 a8h8 h4g5 h8h5 g5f4 h5e5
+Rating: 1624
+--------------------
+FEN: 2r2rk1/3b1p1p/3p3P/p2Np1q1/1p2Q3/8/PPP5/1K1R3R b - - 1 23
+Moves: d7f5 e4f5 g5f5 d5e7 g8h8 e7f5
+Rating: 1922
+--------------------
+FEN: 1r3rk1/1pp2pp1/p4q2/5b2/1P1R1P2/P1N4P/5QP1/4R2K b - - 8 29
+Moves: b8d8 c3d5 d8d5 d4d5
+Rating: 1786
+--------------------
+FEN: 5rk1/1p4pp/4p3/Q2pPn2/8/P7/1PB2qPP/1R5K w - - 1 26
+Moves: c2d3 f5e3
+Rating: 1731
+--------------------
+FEN: r4r2/2p2pk1/p5p1/np2Pb1Q/5q2/1P4R1/P1B2PPP/R5K1 w - - 0 28
+Moves: c2f5 f4g3 h2g3 g6h5
+Rating: 1598
+--------------------
+FEN: 2rq1rk1/1p3ppp/p4b2/n6b/3Pp3/P3BN1P/1P2BPP1/2RQ1RK1 w - - 0 18
+Moves: f3d2 c8c1 d1c1 h5e2
+Rating: 1545
+--------------------
+FEN: 5k1r/R5p1/b4n1p/5P1q/5B2/P2p4/6PP/4Q1K1 b - - 0 26
+Moves: a6b5 e1e7 f8g8 e7g7
+Rating: 1840
+--------------------
+FEN: 6rk/3Q2bp/p2p4/q4p2/P7/2p4P/2P5/K3R1R1 b - - 8 34
+Moves: a5b4 d7g7 g8g7 e1e8 g7g8 g1g8
+Rating: 1517
+--------------------
+FEN: 8/1p2qkpQ/p2p1r1p/3Pp3/7P/3R4/PPr2P2/5RK1 b - - 1 26
+Moves: f6g6 d3g3 e7f6 h4h5 g6g5 h7c2
+Rating: 1758
+--------------------
+FEN: 2kr4/ppp4p/6p1/5p2/1bPrp3/1P1P3P/P1B1KPP1/3R3R w - - 0 19
+Moves: d3e4 d4d2 d1d2 d8d2 e2f3 d2c2
+Rating: 1627
+--------------------
+FEN: 5k2/8/p2p3K/2p3pP/P1PpP1P1/3P4/1b6/8 b - - 0 52
+Moves: d6d5 e4d5 b2c1 h6g6
+Rating: 1746
+--------------------
+FEN: 3r1rk1/2p2ppp/p1n1p1bq/1pN4n/3P4/P1B2P2/1P2B1PP/2RQR2K w - - 6 20
+Moves: c5a6 h5g3 h1g1 h6e3
+Rating: 1662
+--------------------
+FEN: r4rk1/p1p1bppp/2pp4/8/7q/1P2B1P1/P1PQ1P1P/3RR1K1 b - - 0 16
+Moves: h4f6 e3d4 f6g5 f2f4
+Rating: 1996
+--------------------
+FEN: 4r1k1/QP2pq2/3p2r1/3N4/4P3/8/P4p1P/1R3R1K w - - 2 30
+Moves: b7b8q f7f3
+Rating: 1513
+--------------------
+FEN: 1N4k1/7p/PR1n2r1/1b6/1P3R2/3p3r/1P4P1/4N1K1 w - - 0 45
+Moves: e1d3 h3d3 a6a7 d3d1
+Rating: 1704
+--------------------
+FEN: r2q1rk1/ppp1bppp/3p1nb1/8/2PpP1PN/P2P3P/1P2BP2/RN1Q1RK1 b - - 1 12
+Moves: f6e4 h4g6 f7g6 d3e4
+Rating: 1639
+--------------------
+FEN: 8/ppp1kpp1/3b3p/3pn2b/3P1B2/2P4P/PPBN1PP1/5K2 b - - 0 23
+Moves: e5g6 f4d6 e7d6 g2g4 g6f4 g4h5
+Rating: 1625
+--------------------
+FEN: 5R2/1pQ3pk/1p1p3p/4q3/3pP3/3P3P/1PP3P1/r5K1 w - - 1 23
+Moves: g1f2 e5g5 f8h8 h7h8 c7c8 h8h7
+Rating: 1905
+--------------------
+FEN: r3r1k1/pp4pp/2pq4/3nNQ1b/3P4/4pP1P/PP2P1B1/1K1R3R b - - 0 19
+Moves: g7g6 f5f7 g8h8 f7e8 a8e8 e5f7 h8g7 f7d6
+Rating: 1528
+--------------------
+FEN: 2r3k1/1b4pp/4p3/1qPpPp2/1P6/4PNP1/1Q5P/R5K1 b - - 0 24
+Moves: c8c5 a1a5 b5b6 a5c5
+Rating: 1808
+--------------------
+FEN: r2qr1k1/pbp2ppp/1pn2n2/8/3PN3/5NP1/PP2QPBP/R3R1K1 b - - 2 13
+Moves: c6d4 e4f6 g7f6 e2e8 d8e8 e1e8 a8e8 f3d4
+Rating: 1556
+--------------------
+FEN: 5r1k/p1q3pp/b1p2b2/2p1Np2/2P1P3/5P2/PQ4PP/1R1R2K1 w - - 1 25
+Moves: d1d7 c7e5 b2e5 f6e5
+Rating: 1674
+--------------------
+FEN: 3rr3/4qpk1/5np1/p2p4/3Q4/P1P5/2B2R1P/3R3K b - - 0 29
+Moves: e7e6 d1f1 d8d6 f2f6 e6f6 f1f6
+Rating: 1911
+--------------------
+FEN: 5rk1/pp1nrppp/2p5/q2p3n/2PP4/1P2PR1P/P1QN2P1/1N2R1K1 b - - 0 22
+Moves: d5c4 f3f5 a5d8 f5h5
+Rating: 1962
+--------------------
+FEN: r1bq1rk1/p1p2pp1/2pp1n1p/2b5/4P2B/2NB4/PPP2PPP/R2Q1RK1 b - - 1 10
+Moves: c8g4 h4f6 g4d1 f6d8
+Rating: 1557
+--------------------
+FEN: 2r2rk1/pp1n1pp1/2p4p/2P5/2qPQ2B/4P3/5PPP/RR4K1 w - - 4 23
+Moves: b1b7 d7c5 e4e7 c5b7
+Rating: 1700
+--------------------
+FEN: 2r5/p3kp2/1n1bpNp1/1PRp2P1/3P1P2/2PK4/8/2B5 w - - 1 45
+Moves: c1a3 d6c5 a3c5 e7d8
+Rating: 1786
+--------------------
+FEN: 2R2bk1/7p/6p1/3p1p2/1r1Bp3/4P1P1/5PKP/8 b - - 1 36
+Moves: g8f7 c8f8 f7f8 d4c5 f8f7 c5b4
+Rating: 1624
+--------------------
+FEN: r4rk1/4q1p1/p1np3p/1p3p2/2b1p3/1B5N/P1PQ1PPP/R2R2K1 b - - 1 20
+Moves: a8d8 b3c4 b5c4 d2d5 g8h7 d5c6
+Rating: 1530
+--------------------
+FEN: 6r1/p1qk4/QbN5/3p1p2/8/4P1r1/P6P/1R2R1K1 w - - 0 32
+Moves: h2g3 c7g3 g1f1 g3g2
+Rating: 1518
+--------------------
+FEN: 3nrr1k/1ppR2p1/p6p/6NQ/2B2p1P/1P6/P1PK1PP1/q6R b - - 2 22
+Moves: a1h1 h5h6 g7h6 d7h7
+Rating: 1894
+--------------------
+FEN: 8/8/2p3k1/1p1p1p1p/p1nP2PP/P1PK1P2/8/2B5 w - - 0 36
+Moves: g4h5 g6h5 c1g5 c4a3
+Rating: 1731
+--------------------
+FEN: r2r4/ppp2kp1/2P3bp/2P1p3/6P1/2P2NnP/P3K3/RNB4R w - - 1 17
+Moves: e2e3 d8d3 e3f2 g3h1
+Rating: 1568
+--------------------
+FEN: 1Q2n1kr/r4ppp/q7/bbB5/4p3/2P1P3/P3NPPP/RN2K2R w KQ - 8 21
+Moves: c5a7 a5c7 b8a8 b5c6 a8c6 a6c6
+Rating: 1582
+--------------------
+FEN: 2r5/6k1/R7/P3p3/4P3/KP1qB3/1P3P2/8 b - - 0 37
+Moves: c8c5 a6a7 g7f6 e3c5
+Rating: 1911
+--------------------
+FEN: r3n3/2q1b1kp/3p2p1/2n2N2/2B1P3/8/1Pp2B2/1NKR3R b - - 1 29
+Moves: g7h8 h1h7 h8h7 d1h1 e7h4 h1h4
+Rating: 1889
+--------------------
+FEN: 3qr1k1/1b3pp1/p2p1b2/1p6/1P2PBQ1/P1pP1P2/B5PP/4R1K1 w - - 0 21
+Moves: g4g3 f6h4 g3g4 h4e1
+Rating: 1803
+--------------------
+FEN: r1bq2k1/pppprpp1/5n1p/3N4/2P1P2B/3Q4/PP3PPP/R3K2R b KQ - 0 13
+Moves: e7e4 d3e4 f6e4 h4d8
+Rating: 1614
+--------------------
+FEN: r1b2rk1/pp2bppp/1qn1pn2/3pN3/3P1P2/3BP3/PP1N2PP/R1BQ1RK1 b - - 4 10
+Moves: c6d4 e3d4 b6d4 g1h1
+Rating: 1770
+--------------------
+FEN: 3r2k1/pp3r2/6p1/2q1p3/3b2b1/4B3/P4QPP/1RR3K1 w - - 0 24
+Moves: f2f7 g8f7 c1c5 d4e3
+Rating: 1654
+--------------------
+FEN: r2q1k1r/4ppbp/bp1p1np1/3P4/2P5/5N2/1P1N1PPP/R1B1QRK1 b - - 1 16
+Moves: a6c4 a1a8 d8a8 d2c4
+Rating: 1842
+--------------------
+FEN: 2r3k1/6pp/2b5/3R4/3P4/R3P1BP/5P1K/1r6 w - - 3 34
+Moves: a3c3 b1h1 h2h1 c6d5 h1h2 c8c3
+Rating: 1693
+--------------------
+FEN: 1r2k2r/p2n1ppp/q1Bp4/2p5/4P3/2b5/PP2NPPP/1R1Q1K1R b k - 3 15
+Moves: c3b2 d1d6 a6c6 d6c6
+Rating: 1564
+--------------------
+FEN: 2k5/pb2r3/1pn1R3/2p4q/2B5/2PP2Q1/PP3PP1/6K1 b - - 0 36
+Moves: e7e6 c4e6 c8d8 g3d6
+Rating: 1774
+--------------------
+FEN: 3bB1k1/1q1P1p1p/6p1/p3B3/Pp2n3/2r4P/4QPP1/3RR1K1 w - - 1 33
+Moves: e2f3 c3f3 g2f3 e4g5
+Rating: 1946
+--------------------
+FEN: r3kb1r/1p3pp1/p1p1b3/4p1Bp/4P3/2NQ1PP1/PPP2qBP/R6K b kq - 1 16
+Moves: f7f6 g5e3 e6c4 e3f2 c4d3 c2d3
+Rating: 1661
+--------------------
+FEN: 2r3k1/2P2pp1/6r1/3p2qp/3N2b1/2R1P3/3Q1PPP/2R4K w - - 1 28
+Moves: c3b3 g4f3 c1g1 f3g2 g1g2 g5g2
+Rating: 1766
+--------------------
+FEN: 8/8/2p3p1/p1k4p/P3Pp1P/3K1P2/8/8 b - - 1 41
+Moves: c5b4 e4e5 b4c5 d3e4
+Rating: 1873
+--------------------
+FEN: r5k1/pp4pp/4b2r/2B2pQ1/8/4PP2/P4KPq/R1R5 b - - 1 28
+Moves: h2e5 c5d4 h6g6 g5g6 h7g6 d4e5
+Rating: 1637
+--------------------
+FEN: 2kr2nr/ppp2ppp/3pb3/q3n3/7Q/PBNPB2P/1PP3P1/R4K1R b - - 2 15
+Moves: e5d3 b3e6 f7e6 c2d3
+Rating: 1721
+--------------------
+FEN: r1b2rk1/pp3ppp/5n2/1N1p4/B7/q6P/P4PP1/2RQR1K1 b - - 3 18
+Moves: a3a2 e1e2 a2e2 d1e2
+Rating: 1877
+--------------------
+FEN: r3kb1r/pq1b1ppp/Bp1Bp1n1/3pn3/QP6/2P2N2/P4PPP/RN3RK1 w kq - 0 15
+Moves: a6b7 e5f3 g2f3 d7a4
+Rating: 1848
+--------------------
+FEN: 1rr3k1/5p2/3p2p1/3PP2R/1p6/2p2P2/2Q3PP/6K1 w - - 0 32
+Moves: h5h4 b4b3 c2c1 b3b2 c1h6 b2b1q g1f2 b8b2 f2g3 b1e1 g3h3 e1h4
+Rating: 1558
+--------------------
+FEN: r3k1r1/2bq1p1b/1np1pp1p/p3P2P/p1PPN3/1P3Q2/5PP1/R1B2RK1 b q - 3 25
+Moves: c7d8 e4d6 d7d6 e5d6
+Rating: 1890
+--------------------
+FEN: r4rk1/p5pp/1bN2p2/3Rp3/2P3b1/1P6/PB4PP/5R1K b - - 0 19
+Moves: g8f7 c6e5 f7g8 e5g4
+Rating: 1507
+--------------------
+FEN: 7k/p1q4p/5Pp1/1ppb4/3n1PQ1/2KP4/PP6/2R4R w - - 0 27
+Moves: h1e1 c7a5 b2b4 a5b4
+Rating: 1818
+--------------------
+FEN: 1k1r2nr/1p5p/p3Qpb1/4n3/3q4/2BB4/PPP2PPP/R4RK1 b - - 1 20
+Moves: d4d7 c3e5 b8a7 e6d7
+Rating: 1650
+--------------------
+FEN: 8/8/7p/2k1p1p1/4N1P1/r4PN1/4K3/8 b - - 1 58
+Moves: c5d4 g3f5 d4c4 f5h6
+Rating: 1904
+--------------------
+FEN: 4r1k1/pp3ppp/1q4b1/1Nb3B1/2Q5/2P4P/PP3PP1/R5K1 w - - 1 24
+Moves: g5h4 e8e4 b5d4 e4h4
+Rating: 1766
+--------------------
+FEN: r2qkb1r/ppp2pp1/3pbn1p/3N4/2BQP3/8/PPP2PPP/R1B2RK1 b kq - 3 9
+Moves: f6d5 e4d5
+Rating: 1526
+--------------------
+FEN: r1bq1rk1/pp3pp1/1nnbp2p/2p5/3P4/2P1B3/PPB1NPPP/RN1Q1RK1 b - - 2 11
+Moves: b6c4 d1d3 f7f5 d3c4
+Rating: 1557
+--------------------
+FEN: 2kr1bnr/ppq1pppp/2n5/3pPb2/3p4/2P2N1P/PP2QPP1/RNB1KB1R w KQ - 0 8
+Moves: f3d4 c6d4 c3d4 c7c1
+Rating: 1542
+--------------------
+FEN: 4n3/3R4/1pP1r2k/7p/1P4p1/8/6BP/7K w - - 0 48
+Moves: c6c7 e6e1 g2f1 e1f1 h1g2 f1c1
+Rating: 1617
+--------------------
+FEN: 3r1rk1/1pp2ppp/pb1p2N1/4p3/1P1n4/PB1P3P/1BP2PP1/R4R1K b - - 0 21
+Moves: d4b3 g6e7 g8h8 c2b3
+Rating: 1564
+--------------------
+FEN: r5k1/1pr1qpp1/2b1p1np/p3P3/Pn1N4/BB2R3/3Q1PPP/3R2K1 b - - 7 24
+Moves: a8d8 d4c6 b4c6 a3e7 d8d2 d1d2
+Rating: 1730
+--------------------
+FEN: 8/p4R1p/1p4k1/4p3/5n2/PN2KP2/2r4P/8 w - - 1 32
+Moves: f7a7 c2e2
+Rating: 1504
+--------------------
+FEN: 5rk1/1b1nbpp1/pq2p2p/1p1p4/1P1P1B2/PQ2PN2/5PPP/1BR3K1 b - - 0 18
+Moves: f8c8 c1c8 b7c8 b3c2 d7f8 c2c8
+Rating: 1732
+--------------------
+FEN: r7/ppk5/2n3pp/2b1pN1q/3pP1n1/1P5P/1P2N1P1/R1BQ1R1K w - - 0 22
+Moves: e2g3 g4f2 h1h2 h5d1 f1d1 f2d1
+Rating: 1772
+--------------------
+FEN: 4r3/pp3ppk/7p/1qpQ3b/5B2/8/PPP2PP1/2K1R3 w - - 3 24
+Moves: e1e8 b5f1 c1d2 f1d1 d2c3 d1d5
+Rating: 1578
+--------------------
+FEN: 4rk2/1p2n3/1N2b3/pN2b1pB/P1P1pp2/8/1P3PP1/3RK3 b - - 3 34
+Moves: e6f7 b6d7 f8g7 h5f7
+Rating: 1551
+--------------------
+FEN: r1bq4/pp4k1/7p/3pp1p1/5rn1/1B1Q4/PPPN1PPP/R4RK1 w - - 0 18
+Moves: d3d5 d8d5 b3d5 f4d4 d5b7 c8b7
+Rating: 1562
+--------------------
+FEN: 2rqk2r/p4p1p/7b/3QPp2/2p5/2N5/PPnP2PP/R1B2RK1 w k - 0 19
+Moves: f1f5 d8d5 c3d5 c2a1
+Rating: 1753
+--------------------
+FEN: 8/8/p6p/1p3k2/6p1/PP2K1P1/7P/8 b - - 0 55
+Moves: a6a5 e3d4 b5b4 a3b4
+Rating: 1670
+--------------------
+FEN: 6k1/p1r3bp/R1n1p1p1/3p1p2/Br1P4/4PNqP/1PP3P1/Q3R1K1 b - - 1 25
+Moves: b4b6 a6b6 a7b6 a4c6
+Rating: 1715
+--------------------
+FEN: r1bqr3/ppppk1pp/1b3n2/nP2p1NP/4P3/2PP4/P4PP1/RNBQK2R b KQ - 0 11
+Moves: d7d5 c1a3 e7d7 g5f7 d8e7 a3e7
+Rating: 1730
+--------------------
+FEN: 2r3k1/1b1nqpp1/3Qp2p/1Pp5/2N5/4P3/r3BPPP/1RR3K1 b - - 10 25
+Moves: e7h4 d6d7 a2e2 d7b7
+Rating: 1958
+--------------------
+FEN: 8/8/6kp/2R1PNp1/2P5/1P4K1/r7/4n3 w - - 5 35
+Moves: e5e6 a2g2 g3h3 g5g4 h3h4 e1f3
+Rating: 1604
+--------------------
+FEN: 2k2N2/pp6/3P4/2p2N2/P3Pqp1/2P2r1r/1P2Q1Kp/5R1R w - - 1 35
+Moves: f5e7 c8b8 f1f3 g4f3 g2h3 f3e2
+Rating: 1948
+--------------------
+FEN: r4rk1/1pp1qpp1/1nn1b2p/p6Q/8/b1NBBN1P/1PP2PP1/2KRR3 w - - 0 18
+Moves: b2a3 e7a3 c1d2 b6c4 d2e2 a3c3
+Rating: 1979
+--------------------
+FEN: 7r/2k1n1b1/1pqp1pp1/1R2p2p/2PpP3/r2P1B1P/PQ2NKP1/R7 b - - 1 26
+Moves: h8a8 e2d4 e5d4 e4e5 d6d5 c4d5
+Rating: 1875
+--------------------
+FEN: r4rk1/pb2q1pp/1p6/1N3p2/4p1Q1/4P3/P1B2KPP/1R5R w - - 0 26
+Moves: g4g3 f5f4 e3f4 e7c5
+Rating: 1938
+--------------------
+FEN: 4q3/2r2p1k/4pRrp/4P2Q/2ppPB2/8/1PP3P1/7K b - - 3 37
+Moves: e8f8 h5g6 f7g6 f6f8
+Rating: 1844
+--------------------
+FEN: 8/2r3p1/5k2/4R3/1pp2P2/5K2/PP6/8 w - - 0 42
+Moves: f3e3 c4c3 b2c3 b4c3 e3d4 c3c2
+Rating: 1601
+--------------------
+FEN: 4rr1k/pp4pp/2p1Bn2/2b1pP1q/8/2NP1R2/PPPB2QP/4K3 b - - 6 20
+Moves: f6d5 f3h3 c5f2 e1f2 h5h3 g2h3
+Rating: 1542
+--------------------
+FEN: r4rk1/2qb2pp/p2bp3/1p1nnN2/1P2Q3/P1P3N1/2B2PPP/R1B2RK1 b - - 0 21
+Moves: d5c3 f5h6 g7h6 e4h7
+Rating: 1968
+--------------------
+FEN: 1qr3k1/1r3ppp/p2p4/b2P4/4PpPP/2P5/PP1QN3/K2R3R w - - 0 23
+Moves: e2f4 b7b2 d2b2 a5c3 b2c3 c8c3
+Rating: 1573
+--------------------
+FEN: 3r2k1/4qp2/4r1pp/1p6/pP5P/4bRP1/P1B1Q1PK/5R2 w - - 1 30
+Moves: h2h1 d8d2 e2b5 d2c2
+Rating: 1598
+--------------------
+FEN: 8/1R5p/p5p1/3N3k/PP3P2/6K1/5r1r/8 b - - 4 47
+Moves: g6g5 b7h7 h5g6 h7h2
+Rating: 1522
+--------------------
+FEN: 4r1k1/Bp1b1p1p/3p1Qp1/4p3/1P2P3/P6P/B4PPK/2q5 b - - 0 25
+Moves: d7e6 a7e3 c1e3 f2e3
+Rating: 1840
+--------------------
+FEN: 2r2rk1/1p4p1/p3p2p/3p1p1q/8/2P1R3/PP1N1P2/RQ3K2 w - - 0 25
+Moves: d2f3 f5f4 e3d3 e6e5
+Rating: 1974
+--------------------
+FEN: 1r6/3k4/3p1p2/2p1p1p1/2PBP1Pp/Pp1P1P1P/1K6/1R6 b - - 0 42
+Moves: c5d4 a3a4 b8b7 b2a3
+Rating: 1894
+--------------------
+FEN: r2q1rk1/1b3ppp/p2b4/1p1n4/2p1R3/1BPP1N2/PP3PPP/R1BQ2K1 w - - 0 16
+Moves: d3c4 d5c3 b2c3 b7e4
+Rating: 1705
+--------------------
+FEN: rn1q1r1k/pbN5/1pp1Qp1p/2Pp2p1/3Pn3/P7/1P2PPPP/R3KBNR w KQ - 1 17
+Moves: c7a8 b7c8 e6c8 d8c8
+Rating: 1849
+--------------------
+FEN: r2q3r/pp3pk1/1n1b1Np1/2pP4/8/8/PP2B1PP/R3QRK1 w - - 3 18
+Moves: e1c3 d6h2 g1f2 d8f6 c3f6 g7f6
+Rating: 1605
+--------------------
+FEN: r4rk1/ppp2ppp/3q4/1Q1p3b/2nP4/2P1PN1P/P3BPP1/R4RK1 w - - 5 17
+Moves: b5b7 f8b8 b7a8 b8a8
+Rating: 1843
+--------------------
+FEN: 6k1/1P1B1p2/4p3/3pP1Pp/P4K1P/2r5/1R3QP1/2q5 w - - 5 39
+Moves: f2d2 c1f1 d2f2 f1c4 f2d4 c4d4
+Rating: 1973
+--------------------
+FEN: 1Q2nkr1/5p2/3p2b1/2pP4/2P1p3/4P1B1/P2KBPP1/7q b - - 0 24
+Moves: h1a1 g3d6 f8g7 d6e5 e8f6 b8g8 g7g8 e5a1
+Rating: 1817
+--------------------
+FEN: 2r3k1/pp1b1ppp/4p3/q2nP3/PbNP4/1P1Q1N2/4BKPP/5R2 b - - 1 21
+Moves: d5f4 d3e4 a5c7 e4f4
+Rating: 1676
+--------------------
+FEN: 8/8/8/pp1p1k2/6pP/1PP3K1/P7/8 w - - 0 41
+Moves: a2a3 b5b4 c3b4 a5b4 a3a4 d5d4
+Rating: 1684
+--------------------
+FEN: r4rk1/p3ppbp/6p1/8/1B2n3/4PN2/P4PPP/R4RK1 w - - 0 19
+Moves: b4e7 f8e8 e7a3 g7a1
+Rating: 1580
+--------------------
+FEN: r3k2r/4bppp/p2p4/2pPp3/4P1n1/2N2P1q/PP1BQP1P/R3K2R b KQkq - 6 15
+Moves: g4h2 e1c1 h3f3 h1h2 f3e2 c3e2
+Rating: 1931
+--------------------
+FEN: r3r3/2R2pkp/4p1p1/pR4P1/5P2/B1b5/P6P/5K2 b - - 4 28
+Moves: a8c8 c7c3 c8c3 a3b2 g7f8 b2c3
+Rating: 1684
+--------------------
+FEN: 3rb1k1/6p1/p1p2q1p/1pP1N3/3P4/P3R2P/1P4P1/3Q2K1 w - - 5 35
+Moves: e3f3 f6e5 d1b3 e5d5
+Rating: 1707
+--------------------
+FEN: 4k1r1/p4p2/1pb1pB2/2b4p/4P3/1P1r2P1/P4PBP/RN3RK1 w - - 1 17
+Moves: h2h4 d3g3 g1h1 g3g2
+Rating: 1865
+--------------------
+FEN: 4r1k1/pp1b3p/2p1r1qB/3p3p/4pQ2/8/P5PP/R4R1K b - - 9 29
+Moves: g6g4 f4f8 e8f8 f1f8
+Rating: 1788
+--------------------
+FEN: 7k/R7/5P2/6K1/8/5r2/7p/8 w - - 0 67
+Moves: a7a1 f3g3 g5f4 g3g1 f6f7 h8g7 f7f8q g7f8
+Rating: 1930
+--------------------
+FEN: 2rq1rk1/1p2bppp/p3p3/5b2/1n2N3/1P3NP1/PB3PBP/2RQ1RK1 b - - 0 15
+Moves: f5e4 c1c8 d8c8 d1d4
+Rating: 1798
+--------------------
+FEN: r3kb1r/pp2nppp/3pq3/4n1N1/2p1P3/2P2Q2/PP1P2PP/RNB2RK1 w kq - 2 14
+Moves: f3f7 e6f7 g5f7 e5f7
+Rating: 1892
+--------------------
+FEN: 3r1rk1/pb3p1p/1pn2Ppb/3pP1n1/7q/1P4N1/PB2N1PP/RB1Q1RK1 w - - 1 20
+Moves: f1f4 g5h3 g2h3 h6f4 e2f4 h4f4
+Rating: 1722
+--------------------
+FEN: 8/6p1/p1p1n2p/1p2Pk2/7K/P3R3/1PP5/8 w - - 0 40
+Moves: h4h5 e6f4 h5h4 f4g2 h4g3 g2e3
+Rating: 1677
+--------------------
+FEN: 3r1rk1/pq4p1/4pnNp/1p6/1P6/P5P1/4QR1P/3R2K1 b - - 2 31
+Moves: b7f7 g6f8 d8d1 e2d1
+Rating: 1946
+--------------------
+FEN: r3kb1r/ppp2p1p/5Q2/4p3/2B1P3/3P3P/P1P3PK/1q6 b kq - 0 15
+Moves: b1c2 c4f7 e8d7 f6e6 d7d8 e6e8
+Rating: 1977
+--------------------
+FEN: r2q1rk1/pbp2pbn/1p1pp1p1/n5P1/3BP3/P1NP3Q/BPP2PP1/R3K2R b KQ - 2 14
+Moves: h7g5 h3h8 g7h8 h1h8
+Rating: 1585
+--------------------
+FEN: 8/2kr2p1/5pP1/1p2pP2/pP1NPb2/P7/Q2p2Kr/3R4 w - - 1 42
+Moves: g2f3 d7d4 a2f7 d4d7
+Rating: 1521
+--------------------
+FEN: 7k/6pp/2R1p3/p4p2/Q2rq3/6P1/3K1P2/3R4 w - - 0 47
+Moves: a4d4 e4d4 d2c1 d4a1
+Rating: 1560
+--------------------
+FEN: 8/8/2p1k1p1/p2pP3/P2K1PP1/8/8/8 w - - 0 39
+Moves: d4c5 g6g5 f4g5 e6e5
+Rating: 1604
+--------------------
+FEN: 8/1Q2n3/1p2k3/8/P2qp3/5pP1/1r1p1P1P/3R1RK1 w - - 2 45
+Moves: b7a6 e4e3 a6a8 e3e2
+Rating: 1723
+--------------------
+FEN: r1b2rk1/pp1q1ppp/2n5/3pB3/2pP4/4P3/PPB2PPP/R2Q1RK1 w - - 1 15
+Moves: f2f4 f7f6 d1h5 g7g6
+Rating: 1986
+--------------------
+FEN: r1q2rk1/1b4pp/p2b1n2/2ppN2Q/2P5/P1NBP2P/5PP1/1R2R1K1 w - - 3 20
+Moves: h5f5 c8f5 d3f5 d6e5 f5e6 g8h8
+Rating: 1819
+--------------------
+FEN: r2q1rk1/ppp2ppp/5b2/4N3/1n1P2Q1/2N5/PP4PP/R1B2RK1 w - - 7 15
+Moves: c3e4 d8d4 g1h1 f6e5
+Rating: 1959
+--------------------
+FEN: 2kr4/2p2pp1/8/1R2PP1p/6n1/8/4Q1PP/3q2BK w - - 1 28
+Moves: e2b2 d1g1 h1g1 d8d1
+Rating: 1509
+--------------------
+FEN: r7/p1ppq1kr/b1p2Npp/4P3/Q5P1/8/PPP2PK1/4R3 w - - 0 25
+Moves: f6h7 a6b5 a4e4 g7h7
+Rating: 1854
+--------------------
+FEN: 3k1rQ1/4b2P/2p2p2/4p3/4P3/3P4/p1q3PK/5R2 b - - 1 45
+Moves: c2d2 g8f8 e7f8 h7h8q d2h6 h8h6
+Rating: 1714
+--------------------
+FEN: 8/1kp5/p6R/5p2/1Pr4p/P3BP1P/1b2K1P1/8 w - - 1 40
+Moves: e2d3 c4c3 d3d2 c3e3
+Rating: 1575
+--------------------
+FEN: r3k2r/pp3ppp/2p2n2/2b1p3/Q3Pqb1/B1PB4/P4PPP/R3NRK1 b kq - 3 14
+Moves: c5b6 a3c1 g4d1 a4d1
+Rating: 1659
+--------------------
+FEN: r5rk/5p1p/p4p2/1p2nP2/2P5/1B6/P4P1P/B4R1K b - - 0 27
+Moves: g8g5 f2f4 g5f5 b3c2
+Rating: 1944
+--------------------
+FEN: 3r2k1/p2r1pb1/1pQp1q1p/4p1p1/1PP5/5NB1/P4PPP/R2R2K1 w - - 4 22
+Moves: f3e5 d6e5 d1d7 f6c6 d7d8 g8h7
+Rating: 1503
+--------------------
+FEN: b3Q3/6k1/2p5/6p1/3p1qrp/1P1R1N2/P4P1K/2R5 w - - 2 38
+Moves: h2h3 g4g3 h3h2 g3f3 h2g1 f4c1
+Rating: 1882
+--------------------
+FEN: r2q1rk1/4p1bp/1p4p1/pB1pn3/P3n3/2P1N3/1PQ2PPP/R1BR2K1 b - - 3 17
+Moves: f8f2 c2e4 d5e4 d1d8 a8d8 g1f2
+Rating: 1816
+--------------------
+FEN: 5rk1/1Q4pp/p3p3/3p4/3n2q1/P7/1PPN3P/2KR4 w - - 0 26
+Moves: b7a6 d4e2 c1b1 e2c3 b2c3 g4d1
+Rating: 1560
+--------------------
+FEN: 1r3rk1/1pR3pp/1p1p4/1q1Pp3/bP2Nn2/5N2/P2Q1PPP/R5K1 b - - 8 24
+Moves: f4d5 e4d6 d5c7 d6b5
+Rating: 1875
+--------------------
+FEN: 2rr1bk1/R4pp1/4p1bp/3n4/1pq1N3/5QBP/1P3PP1/1B2R1K1 b - - 3 29
+Moves: c4b5 e4d6 f8d6 b1g6
+Rating: 1947
+--------------------
+FEN: 4rk2/1p5p/6p1/pBpP1p2/P2b4/1P5P/6P1/3R2K1 w - - 8 39
+Moves: d1d4 c5d4 b5e8 f8e8
+Rating: 1803
+--------------------
+FEN: rq1r2k1/5p1p/1pRN2p1/1P6/3b4/3P2PP/5P2/3Q1RK1 w - - 6 28
+Moves: d6e4 f7f5 g1g2 f5e4
+Rating: 1965
+--------------------
+FEN: r1bqk2r/pp3pb1/2np2p1/2p1p3/4P1p1/2NP1N2/PPPBBPP1/R1Q2RK1 w kq - 0 11
+Moves: f3h2 d8h4 d2f4 e5f4
+Rating: 1678
+--------------------
+FEN: 6k1/2p1r3/1p1p2p1/p2P1bN1/P1P3PQ/4q2P/5R1K/8 b - - 0 40
+Moves: f5d3 f2f8 g8f8 h4h8
+Rating: 1585
+--------------------
+FEN: 3r2k1/p3pp1p/2Q3pb/q2rP3/N4P2/P5P1/7P/2R2R1K b - - 0 24
+Moves: d5d2 c1c5 d2d1 c5a5
+Rating: 1838
+--------------------
+FEN: 3r2k1/1bqr1ppp/pp6/2b5/P1pB4/2P1N2P/1P3PP1/R2QR1K1 w - - 3 24
+Moves: e3c4 c5d4 c3d4 c7c4
+Rating: 1595
+--------------------
+FEN: 5rk1/4qp1p/2Q1b1p1/8/2Bp4/r5P1/2P2P1P/1R2R1K1 b - - 2 27
+Moves: e7d7 e1e6 d7c6 e6c6
+Rating: 1586
+--------------------
+FEN: r2qr1k1/1bpn1p1p/1p1p1p2/3N1P1Q/4PR2/1P6/PP4PP/R5K1 b - - 4 20
+Moves: d7f8 f4g4 f8g6 f5g6 f7g6 g4g6 h7g6 h5g6
+Rating: 1655
+--------------------
+FEN: r3r1k1/1q2bppp/3pp1n1/1p6/3P4/2P2N1P/1PB2P1B/R3RQK1 b - - 0 25
+Moves: b7f3 c2e4 a8a1 e4f3 a1e1 f1e1
+Rating: 1679
+--------------------
+FEN: 2r5/4Qrkp/2p3p1/5p2/P1RP1q2/7P/6P1/2R3K1 w - - 2 32
+Moves: d4d5 f4c1 c4c1 f7e7
+Rating: 1857
+--------------------
+FEN: 2r3k1/p6p/1p2NBp1/8/1p6/8/P2r2PP/5R1K b - - 5 32
+Moves: c8c6 f6g5 d2d1 f1d1
+Rating: 1810
+--------------------
+FEN: 3r2k1/1n3ppp/p1p2q2/1p1P4/1P2N3/P5P1/5P1P/2RQ2K1 b - - 1 24
+Moves: f6e5 d5c6 d8d1 c1d1
+Rating: 1646
+--------------------
+FEN: 1k1r4/ppp2pb1/4b2p/5qp1/1P3p2/3r1N2/1P3QPP/R1B1R1K1 b - - 2 22
+Moves: d3d1 f2a7 b8c8 a7a8 c8d7 e1d1
+Rating: 1539
+--------------------
+FEN: r2qr1k1/pp3ppp/3b1n2/8/2P5/2NP2Q1/PP3PPP/R1B2RK1 w - - 5 14
+Moves: c1f4 f6h5 f4d6 h5g3
+Rating: 1572
+--------------------
+FEN: 2r2rk1/pp2qppp/2pb4/3pNP2/3P4/1P3P2/PBQ3PP/1BR2nK1 b - - 0 18
+Moves: f1h2 f5f6 g7g6 f6e7
+Rating: 1521
+--------------------
+FEN: r2q2k1/1p2b1pp/2pp4/p3p3/2P1P1b1/P1N2N2/QP4PP/5RK1 b - - 4 23
+Moves: d8b6 c4c5 g8h8 c5b6
+Rating: 1845
+--------------------
+FEN: r4rk1/ppp2pbp/3q1np1/8/8/1P2P3/PBPPQ1PP/RN3RK1 w - - 3 13
+Moves: e2f3 f6g4 f3g4 g7b2
+Rating: 1785
+--------------------
+FEN: 6k1/1p3pp1/pq5p/8/P2bn3/6QP/1P1BBPP1/1R4K1 w - - 1 25
+Moves: g3d3 d4f2 g1h1 e4g3 d3g3 f2g3
+Rating: 1753
+--------------------
+FEN: 6k1/7p/3P2p1/1R6/8/7r/K7/8 b - - 0 43
+Moves: g8f8 b5b8 f8f7 d6d7
+Rating: 1644
+--------------------
+FEN: 7q/1p3pk1/p6r/3R4/3Pp1p1/4P1P1/PPQ4P/6K1 b - - 2 33
+Moves: h6h2 c2h2 h8h2 g1h2
+Rating: 1693
+--------------------
+FEN: 8/2pr2k1/4N1p1/1p5p/8/2P1Q1K1/2q3PP/8 b - - 10 41
+Moves: g7h8 e3h6 h8g8 h6f8 g8h7 e6g5
+Rating: 1701
+--------------------
+FEN: rnb1k2r/1p2npp1/p3p2p/q2pP3/1b1p1PP1/P2B1N2/1PPN3P/R1BQ1RK1 b kq - 2 10
+Moves: b4c5 b2b4 c5b4 d2b3 a5b6 a3b4
+Rating: 1996
+--------------------
+FEN: r3b1k1/1p5p/p1pp2q1/5p2/1PPBpP1b/PQ2P1PP/3P2K1/R4R2 w - - 3 25
+Moves: c4c5 e8f7 g2h1 f7b3
+Rating: 1616
+--------------------
+FEN: 3rr1k1/5p2/p2q2pB/1pp1p3/3n2Pb/3R2N1/PP1QB1PP/4K2R w K - 0 23
+Moves: e1g1 d4e2 d2e2 d6d3 e2d3 d8d3
+Rating: 1636
+--------------------
+FEN: 5rk1/p4pp1/4p1p1/3p4/7Q/1NP1P3/PP1K1Pqn/R4R2 w - - 0 25
+Moves: h4g3 h2f1 a1f1 g2f1
+Rating: 1816
+--------------------
+FEN: r7/PR2n3/2n1pk2/2Pp2p1/1r1P4/3NP3/5P2/R5K1 w - - 1 39
+Moves: b7e7 f6e7 d3b4 c6b4
+Rating: 1713
+--------------------
+FEN: 8/8/8/8/2n4P/2K3P1/p1N5/1k6 w - - 1 63
+Moves: h4h5 c4e3 c2e3 a2a1q
+Rating: 1878
+--------------------
+FEN: rnb2rk1/1p3pp1/pq2pb2/4p1p1/3NNP2/5Q2/PPP4P/2KR1B1R b - - 1 14
+Moves: e5d4 h2h4 d4d3 e4f6
+Rating: 1981
+--------------------
+FEN: r3k2r/1p3pb1/p2p2p1/2pBpP2/4Pn1q/P1PP1Rp1/1P4P1/RNB1QK2 w kq - 6 23
+Moves: c1f4 h4h1 f1e2 h1g2 f3f2 g3f2
+Rating: 1910
+--------------------
+FEN: r1k4r/pp1nQ1p1/5p2/1N3P1p/3P4/2P5/q5PP/4R2K b - - 3 25
+Moves: a7a6 e7e8 h8e8 e1e8
+Rating: 1789
+--------------------
+FEN: 1r3rk1/pp1b1ppp/3np3/q2pQ3/3P4/3B1P2/PPP3PP/1K1R2NR b - - 4 15
+Moves: d6c4 d3c4 f7f6 e5d6 d5c4 d6d7
+Rating: 1867
+--------------------
+FEN: 5Q2/3kp3/1pp4P/8/4p3/pPq1P3/P1P3P1/1K6 w - - 2 37
+Moves: b1c1 c3e1
+Rating: 1564
+--------------------
+FEN: rnbq1rk1/p3b1pp/4pP2/1Pp3B1/8/2p2N2/PP3PPP/R2QKB1R b KQ - 0 11
+Moves: c3b2 f6e7 d8d1 a1d1
+Rating: 1529
+--------------------
+FEN: 8/4k3/8/7R/6pK/5p2/P3n1P1/8 w - - 0 51
+Moves: h4g4 f3g2 g4f3 g2g1q
+Rating: 1559
+--------------------
+FEN: 2q5/4Q3/4p1k1/3p2P1/p2Pp3/4P3/5PK1/8 b - - 0 52
+Moves: a4a3 e7f6 g6h7 g5g6 h7h6 g6g7 h6h7 f6f8
+Rating: 1925
+--------------------
+FEN: r1r3k1/pp3pp1/2n1bb1p/8/1P2B3/P3BN1P/5PP1/2RR2K1 w - - 3 22
+Moves: e3d4 c6d4 c1c8 a8c8 f3d4 c8d8
+Rating: 1997
+--------------------
+FEN: r5k1/pp1b2pp/2n1p1p1/3pP3/3P2Q1/P1P5/3qNKPP/2R4R w - - 2 17
+Moves: h1d1 a8f8 f2g1 d2e3 g1h1 h7h5 g4g6 e3e2
+Rating: 1963
+--------------------
+FEN: 8/1pp1b3/1n2kp2/6p1/p1PPN1P1/1P3K2/P2B4/8 b - - 0 30
+Moves: f6f5 d4d5 e6f7 g4f5 a4b3 a2b3
+Rating: 1886
+--------------------
+FEN: 4b3/8/5k2/7p/p2N3P/1p2K1P1/1P6/8 w - - 0 43
+Moves: e3f4 a4a3 d4b3 a3b2
+Rating: 1918
+--------------------
+FEN: r2qk2r/1pp3p1/p1nbbn1p/3p1p2/3P4/PQN1PN1P/1PPB1P2/R3KB1R w KQkq - 0 13
+Moves: b3b7 c6a5 b7a8 d8a8
+Rating: 1534
+--------------------
+FEN: 2b5/p4p1k/3q1Pp1/2p5/3p1p1P/1R3P2/PQ4P1/6K1 w - - 0 48
+Moves: b3b8 d4d3 b8c8 d3d2 b2b3 d2d1q
+Rating: 1693
+--------------------
+FEN: 4r3/K1B4R/2kP2p1/P7/8/r5P1/7P/8 w - - 3 41
+Moves: a5a6 a3a6 a7a6 e8a8
+Rating: 1674
+--------------------
+FEN: 8/5p2/2R1k1p1/p2r3p/P4KP1/5P1P/8/8 b - - 1 37
+Moves: d5d6 c6d6 e6d6 g4h5
+Rating: 1884
+--------------------
+FEN: 2r2rk1/1p1b1ppp/p3p1n1/3pP3/P1q5/R4NP1/1B1Q1PBP/4K2R w K - 6 20
+Moves: g2f1 c4e4 f1e2 c8c2
+Rating: 1650
+--------------------
+FEN: 2r2r1k/1ppb2b1/p3q1Bp/2PR4/8/P1N1P3/1PQ2PP1/2K4R w - - 1 21
+Moves: g6f5 f8f5 c2f5 e6f5 d5f5 d7f5
+Rating: 1512
+--------------------
+FEN: 2kn1rr1/ppp5/8/2PRp1Bp/1P2p2P/P3P1p1/6P1/5RK1 b - - 3 28
+Moves: d8f7 g5e7 f8d8 e7d8
+Rating: 1843
+--------------------
+FEN: r1bq1r2/ppbn2k1/4p1p1/3pP1p1/3P1p2/2PB1N1Q/PP5P/R1B2RK1 w - - 0 19
+Moves: h3e6 d7e5 e6e5 c7e5
+Rating: 1831
+--------------------
+FEN: 8/3N2p1/7p/3p4/p1p4P/2P3K1/Bk4P1/8 w - - 0 41
+Moves: d7c5 a4a3 g3f4 b2a2
+Rating: 1970
+--------------------
+FEN: r1bq1bnr/pppp2p1/2nk3p/4pQ2/3PP3/5N2/PPP2PPP/RNB1K2R b KQ - 0 7
+Moves: d8f6 d4e5 c6e5 c1f4 f6f5 e4f5
+Rating: 1979
+--------------------
+FEN: r7/4k1p1/3p1n1p/1pp1p3/4PP2/1BPq3P/6P1/4QRK1 b - - 0 27
+Moves: f6e4 f1f3 d3f3 g2f3
+Rating: 1979
+--------------------
+FEN: 2rr2k1/pp3ppp/2n5/3p4/QP6/P3P3/1q2NPPP/2R2RK1 w - - 1 20
+Moves: e2d4 c6d4 c1c8 d4e2 g1h1 d8c8
+Rating: 1501
+--------------------
+FEN: 1b6/p6k/1p5p/3p1p2/PP2nP2/2P1Q1Pq/7P/4R2K w - - 1 40
+Moves: e3d4 e4g3 h1g1 g3e4
+Rating: 1812
+--------------------
+FEN: r2qk2r/1p1n1pp1/p2p4/4p2p/4P1bb/2NQ1nP1/PPP1NPB1/R1B2R1K b kq - 1 15
+Moves: h4e7 g2f3 d7c5 d3e3 e7g5 e3g5 d8g5 c1g5
+Rating: 1625
+--------------------
+FEN: r2qk2r/2p1n1pp/1bP2p2/pP2p3/Q2pP3/B1Pb4/P2N1PPP/RN2R1K1 w kq - 0 18
+Moves: c3d4 d8d4 a4d4 b6d4 d2b3 d4a1
+Rating: 1999
+--------------------
+FEN: 8/1k3p2/1P3P1p/8/3K4/8/8/8 w - - 3 56
+Moves: d4e4 b7b6 e4d5 b6c7
+Rating: 1771
+--------------------
+FEN: r3k1nr/pp1b1ppp/2nB4/1B1N4/Q2P4/7P/Pq1NKP2/8 b kq - 1 15
+Moves: e8c8 d5b6 a7b6 a4a8 c6b8 a8b8
+Rating: 1877
+--------------------
+FEN: r4rk1/1ppb2pp/p1n1p3/3p1pN1/3P1P2/P1BQPB2/1PP4q/2KR4 b - - 1 17
+Moves: c6e7 d1h1 d7b5 h1h2
+Rating: 1632
+--------------------
+FEN: r5nr/p1Nk1ppp/1pn5/1Bb1p3/4P3/1Q6/PPP3qP/R1BK3R w - - 3 13
+Moves: b3f7 g8e7 f7f1 g2f1
+Rating: 1790
+--------------------
