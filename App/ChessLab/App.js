@@ -2,7 +2,11 @@ import React, { useState } from 'react';
 import { View, Text, StyleSheet, Image } from 'react-native';
 import { useFonts } from 'expo-font';
 import colors from './assets/colors/colors'; // Import colors
-
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import LoginScreen from './screens/LoginScreen';
+import HomeScreen from './screens/HomeScreen';
+const Stack = createNativeStackNavigator();
 
 export default function App() {
   const [fontsLoaded] = useFonts({
@@ -15,12 +19,12 @@ export default function App() {
   }
 
   return (
-    <View style={styles.container}>
-      <Image source={require('./assets/pngs/green-book.png')} style={styles.image} />
-      <Text style={styles.text}>Hello World</Text>
-      {/* Other components or elements can go here */}
-      
-    </View>
+    <NavigationContainer>
+      <Stack.Navigator>
+       <Stack.Screen options = {{headerShown : false }} name="Login" component={LoginScreen} />
+       <Stack.Screen name="Home" component={HomeScreen} />
+      </Stack.Navigator>
+    </NavigationContainer>
   );
 }
 
