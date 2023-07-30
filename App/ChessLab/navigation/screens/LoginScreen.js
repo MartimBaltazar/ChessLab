@@ -8,9 +8,10 @@ import {
   Image
 } from "react-native";
 import { useNavigation } from "@react-navigation/native";
-import colors from "../assets/colors/colors";
+import colors from "../../assets/colors/colors";
 import React, { useState, useEffect } from "react";
-import { auth } from "../firebase";
+import { auth } from "../../firebase";
+
 
 const loginScreen = () => {
   const [email, setEmail] = useState("");
@@ -21,13 +22,13 @@ const loginScreen = () => {
   useEffect(() => {
     const unsubscribe = auth.onAuthStateChanged((user) => {
       if (user) {
-        navigation.navigate("Home");
+        navigation.navigate("MainContainer");
       }
     });
     return unsubscribe;
   }, []);
 
-  const handeSignUp = () => {
+  const handleSignUp = () => {
     auth
       .createUserWithEmailAndPassword(email, password)
       .then((userCredentials) => {
@@ -49,7 +50,7 @@ const loginScreen = () => {
       <View style={styles.inputContainer}>
         <View style={styles.logoContainer}>
           <Image
-            source={require("../assets/pngs/logo.png")}
+            source={require("../../assets/pngs/logo.png")}
             style={styles.logoIcon}
           />
         </View>
@@ -73,7 +74,7 @@ const loginScreen = () => {
         </TouchableOpacity>
 
         <TouchableOpacity
-          onPress={handeSignUp}
+          onPress={handleSignUp}
           style={[styles.button, styles.buttonOutline]}
         >
           <Text style={styles.registerText}>Register</Text>

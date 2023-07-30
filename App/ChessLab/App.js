@@ -1,17 +1,30 @@
-import React, { useState } from 'react';
-import { View, Text, StyleSheet, Image } from 'react-native';
-import { useFonts } from 'expo-font';
-import colors from './assets/colors/colors'; // Import colors
+import React, { useState, useEffect } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import LoginScreen from './screens/LoginScreen';
-import HomeScreen from './screens/HomeScreen';
+
+import { useFonts } from 'expo-font';
+import { auth } from './firebase';
+
+// Screens
+import LoginScreen from './navigation/screens/LoginScreen';
+import MainContainer from './navigation/MainContainer';
+
 const Stack = createNativeStackNavigator();
 
 export default function App() {
   const [fontsLoaded] = useFonts({
     'Lato-Bold': require('./assets/fonts/Lato-Bold.ttf'),
   });
+
+  // Move the useState hook outside of the conditional block
+  const [user, setUser] = useState(null);
+
+  useEffect(() => {
+    const unsubscribe = auth.onAuthStateChanged((user) => {
+      setUser(user);
+    });
+    return unsubscribe; // Clean up the event listener when the component unmounts
+  }, []);
 
   if (!fontsLoaded) {
     // Font is not loaded yet, you can show a loading screen or a placeholder
@@ -20,30 +33,13 @@ export default function App() {
 
   return (
     <NavigationContainer>
-      <Stack.Navigator>
-       <Stack.Screen options = {{headerShown : false }} name="Login" component={LoginScreen} />
-       <Stack.Screen name="Home" component={HomeScreen} />
+      <Stack.Navigator screenOptions={{ headerShown: false }}>
+        {user ? (
+          <Stack.Screen name="MainContainer" component={MainContainer} />
+        ) : (
+          <Stack.Screen name="Login" component={LoginScreen} />
+        )}
       </Stack.Navigator>
     </NavigationContainer>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  text: {
-    fontFamily: 'Lato-Bold', // Use the registered font family name here
-    fontSize: 44, // You can adjust the font size as well
-    color: colors.primary
-  },
-  image: {
-    width: 100,
-    height: 100,
-    resizeMode: 'contain',
-    marginBottom: 20,
-  },
-});
