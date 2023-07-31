@@ -7,6 +7,7 @@ import { auth } from './firebase';
 
 // Screens
 import LoginScreen from './navigation/screens/LoginScreen';
+import ProfileScreen from './navigation/screens/ProfileScreen';
 import MainContainer from './navigation/MainContainer';
 
 const Stack = createNativeStackNavigator();
@@ -39,6 +40,9 @@ export default function App() {
         ) : (
           <Stack.Screen name="Login" component={LoginScreen} />
         )}
+
+        <Stack.Screen name="Profile" component={ProfileScreen} />
+        
       </Stack.Navigator>
     </NavigationContainer>
   );

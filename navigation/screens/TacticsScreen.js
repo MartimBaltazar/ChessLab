@@ -32,9 +32,10 @@ export default function TacticsScreen() {
         fontFamily: "Lato-Bold", // Set the font family for the header title
         fontSize: 22,
       },
-        headerTitleContainerStyle: {
-          paddingBottom: 5, // Adjust this value to move the title higher
-        },
+      headerTitleContainerStyle: {
+        paddingBottom: 5, // Adjust this value to move the title higher
+      },
+      headerTitleAlign: "center",
       });
     }, [navigation]);
   
@@ -52,7 +53,7 @@ export default function TacticsScreen() {
         backgroundColor: colors.background,
       }}
     >
-      {/* Three additional buttons */}
+      {/* Two additional buttons */}
       <TouchableOpacity
         style={[styles.additionalButton, { marginTop: 70 }]} // Increase the marginTop value to make the buttons lower
         onPress={() => alert("Tactical Motifs button clicked")}
@@ -84,6 +85,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     alignContent: "center",
     alignItems: "center",
+    elevation: 10,
   },
   additionalButtonText: {
     color: colors.textLight,

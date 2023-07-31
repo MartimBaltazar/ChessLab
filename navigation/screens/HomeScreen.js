@@ -32,9 +32,11 @@ export default function HomeScreen() {
         fontFamily: "Lato-Bold", // Set the font family for the header title
         fontSize: 22,
       },
-        headerTitleContainerStyle: {
-          paddingBottom: 5, // Adjust this value to move the title higher
-        },
+      headerTitleContainerStyle: {
+        paddingBottom: 5, // Adjust this value to move the title higher
+      },
+      headerTitleAlign: "center",
+      
       });
     }, [navigation]);
   
@@ -90,6 +92,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     alignContent: "center",
     alignItems: "center",
+    elevation: 10,
   },
   additionalButtonText: {
     color: colors.textLight,

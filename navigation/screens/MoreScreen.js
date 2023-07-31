@@ -3,7 +3,6 @@ import { View, TouchableOpacity, Text, StyleSheet } from "react-native";
 import colors from "../../assets/colors/colors";
 import * as Font from "expo-font";
 import { useNavigation } from "@react-navigation/core";
-import { auth } from "../../firebase";
 
 export default function MoreScreen() {
   const [fontsLoaded, setFontsLoaded] = useState(false);
@@ -21,13 +20,8 @@ export default function MoreScreen() {
 
   const navigation = useNavigation();
 
-  const handleSignOut = () => {
-    auth
-      .signOut()
-      .then(() => {
-        navigation.replace("Login");
-      })
-      .catch((error) => alert(error.message));
+  const handleProfileButtonClick = () => {
+    navigation.navigate('Profile'); // Navigate to the 'Profile' screen
   };
 
   useEffect(() => {
@@ -45,6 +39,7 @@ export default function MoreScreen() {
       headerTitleContainerStyle: {
         paddingBottom: 5, // Adjust this value to move the title higher
       },
+      headerTitleAlign: "center",
     });
   }, [navigation]);
 
@@ -61,27 +56,49 @@ export default function MoreScreen() {
         backgroundColor: colors.background,
       }}
     >
-      {/* Three additional buttons */}
+      {/* Six additional buttons */}
       <TouchableOpacity
         style={[styles.additionalButton, { marginTop: 70 }]} // Increase the marginTop value to make the buttons lower
-        onPress={() => alert("Opening Repertoire button clicked")}
+        onPress={handleProfileButtonClick}
       >
-        <Text style={styles.additionalButtonText}>Opening Repertoire</Text>
+        <Text style={styles.additionalButtonText}>Profile</Text>
       </TouchableOpacity>
 
       <TouchableOpacity
         style={[styles.additionalButton, { marginTop: 20 }]} // Increase the marginTop value to make the buttons lower
-        onPress={() => alert("Opening Practice button clicked")}
+        onPress={() => alert("Stats button clicked")}
       >
-        <Text style={styles.additionalButtonText}>Opening Practice</Text>
+        <Text style={styles.additionalButtonText}>Stats</Text>
       </TouchableOpacity>
 
       <TouchableOpacity
         style={[styles.additionalButton, { marginTop: 20 }]} // Increase the marginTop value to make the buttons lower
-        onPress={handleSignOut}
+        onPress={() => alert("SRS button clicked")}
       >
-        <Text style={styles.additionalButtonText}>Sign out</Text>
+        <Text style={styles.additionalButtonText}>SRS Training</Text>
       </TouchableOpacity>
+      
+      <TouchableOpacity
+        style={[styles.additionalButton, { marginTop: 20 }]} // Increase the marginTop value to make the buttons lower
+        onPress={() => alert("Get Started button clicked")}
+      >
+        <Text style={styles.additionalButtonText}>Get Started</Text>
+      </TouchableOpacity>
+
+      <TouchableOpacity
+        style={[styles.additionalButton, { marginTop: 20 }]} // Increase the marginTop value to make the buttons lower
+        onPress={() => alert("About Us button clicked")}
+      >
+        <Text style={styles.additionalButtonText}>About Us</Text>
+      </TouchableOpacity>
+
+      <TouchableOpacity
+        style={[styles.additionalButton, { marginTop: 20 }]} // Increase the marginTop value to make the buttons lower
+        onPress={() => alert("Avaialable soon!")}
+      >
+        <Text style={styles.additionalButtonText}>Give us Feedback</Text>
+      </TouchableOpacity>
+      
     </View>
   );
 }
@@ -98,6 +115,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     alignContent: "center",
     alignItems: "center",
+    elevation: 10,
   },
   additionalButtonText: {
     color: colors.textLight,
