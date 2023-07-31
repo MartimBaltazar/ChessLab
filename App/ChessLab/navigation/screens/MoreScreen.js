@@ -1,54 +1,110 @@
-import { useNavigation } from '@react-navigation/core'
-import React from 'react'
-import { StyleSheet, Text, TouchableOpacity, View } from 'react-native'
-import { auth } from '../../firebase'
+import React, { useState, useEffect } from "react";
+import { View, TouchableOpacity, Text, StyleSheet } from "react-native";
 import colors from "../../assets/colors/colors";
+import * as Font from "expo-font";
+import { useNavigation } from "@react-navigation/core";
+import { auth } from "../../firebase";
 
-const HomeScreen = () => {
-  const navigation = useNavigation()
+export default function MoreScreen() {
+  const [fontsLoaded, setFontsLoaded] = useState(false);
+
+  // Load the custom font
+  useEffect(() => {
+    async function loadFonts() {
+      await Font.loadAsync({
+        "Lato-Bold": require("../../assets/fonts/Lato-Bold.ttf"),
+      });
+      setFontsLoaded(true);
+    }
+    loadFonts();
+  }, []);
+
+  const navigation = useNavigation();
 
   const handleSignOut = () => {
     auth
       .signOut()
       .then(() => {
-        navigation.replace("Login")
+        navigation.replace("Login");
       })
-      .catch(error => alert(error.message))
+      .catch((error) => alert(error.message));
+  };
+
+  useEffect(() => {
+    navigation.setOptions({
+      title: "ChessLab", // Set the header title
+      headerStyle: {
+        backgroundColor: colors.primary, // Set the header background color
+        height: 100,
+      },
+      headerTintColor: colors.textLight, // Set the header text color
+      headerTitleStyle: {
+        fontFamily: "Lato-Bold", // Set the font family for the header title
+        fontSize: 22,
+      },
+      headerTitleContainerStyle: {
+        paddingBottom: 5, // Adjust this value to move the title higher
+      },
+    });
+  }, [navigation]);
+
+  if (!fontsLoaded) {
+    return null; // Font is not loaded yet, return null or a loading screen here
   }
 
   return (
-    <View style={styles.container}>
-      <Text>Email: {auth.currentUser?.email}</Text>
+    <View
+      style={{
+        flex: 1,
+        alignItems: "center",
+        justifyContent: "flex-start", // Set justifyContent to "flex-start" to align the content (buttons) to the top
+        backgroundColor: colors.background,
+      }}
+    >
+      {/* Three additional buttons */}
       <TouchableOpacity
-        onPress={handleSignOut}
-        style={styles.button}
+        style={[styles.additionalButton, { marginTop: 70 }]} // Increase the marginTop value to make the buttons lower
+        onPress={() => alert("Opening Repertoire button clicked")}
       >
-        <Text style={styles.buttonText}>Sign out</Text>
+        <Text style={styles.additionalButtonText}>Opening Repertoire</Text>
+      </TouchableOpacity>
+
+      <TouchableOpacity
+        style={[styles.additionalButton, { marginTop: 20 }]} // Increase the marginTop value to make the buttons lower
+        onPress={() => alert("Opening Practice button clicked")}
+      >
+        <Text style={styles.additionalButtonText}>Opening Practice</Text>
+      </TouchableOpacity>
+
+      <TouchableOpacity
+        style={[styles.additionalButton, { marginTop: 20 }]} // Increase the marginTop value to make the buttons lower
+        onPress={handleSignOut}
+      >
+        <Text style={styles.additionalButtonText}>Sign out</Text>
       </TouchableOpacity>
     </View>
-  )
+  );
 }
-
-export default HomeScreen
-
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: colors.background,
-  },
-   button: {
+  additionalButton: {
     backgroundColor: colors.primary,
-    width: '60%',
-    padding: 15,
-    borderRadius: 10,
-    alignItems: 'center',
+    paddingVertical: 18,
+    paddingHorizontal: 30,
+    borderRadius: 15,
     marginTop: 40,
+    marginBottom: 20,
+    width: "70%",
+    borderColor: colors.border,
+    borderWidth: 1,
+    alignContent: "center",
+    alignItems: "center",
   },
-  buttonText: {
-    color: 'white',
-    fontWeight: '700',
+  additionalButtonText: {
+    color: colors.textLight,
     fontSize: 16,
+    fontFamily: "Lato-Bold", // Use the name of the custom font here
   },
-})
+  signOutButton: {
+
+  }
+});

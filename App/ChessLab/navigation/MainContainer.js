@@ -36,7 +36,7 @@ const CustomTabBar = ({ state, descriptors, navigation }) => {
     <View style={styles.tabBarContainer}>
       {state.routes.map((route, index) => {
         const { options } = descriptors[route.key];
-        const label = options.tabBarLabel || options.title || route.name;
+        const label = options.tabBarLabel  || route.name;
         const isFocused = state.index === index;
 
         const onPress = () => {
