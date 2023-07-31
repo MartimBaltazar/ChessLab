@@ -9,12 +9,12 @@ import colors from "../assets/colors/colors";
 // Screens
 import HomeScreen from './screens/HomeScreen';
 import TacticsScreen from './screens/TacticsScreen';
-import SettingsScreen from './screens/SettingsScreen';
+import MoreScreen from './screens/MoreScreen';
 
 // Screen names
 const Openings = 'Openings';
 const TacticsName = 'Tactics';
-const settingsName = 'Settings';
+const MoreName = 'More';
 
 const Tab = createBottomTabNavigator();
 
@@ -25,7 +25,7 @@ const CustomTabBar = ({ state, descriptors, navigation }) => {
         return 'book-open';
       case TacticsName:
         return 'chess-board';
-      case settingsName:
+      case MoreName:
         return 'more-horizontal';
       default:
         return isFocused ? 'book-open' : 'book-open';
@@ -73,7 +73,7 @@ const CustomTabBar = ({ state, descriptors, navigation }) => {
                 color={labelColor}
               />
             )}
-            {route.name === settingsName && (
+            {route.name === MoreName && (
               <FeatherIcon
                 name={getIconName(route.name, isFocused)}
                 size={24}
@@ -96,7 +96,7 @@ function MainContainer() {
     >
       <Tab.Screen name={Openings} component={HomeScreen} />
       <Tab.Screen name={TacticsName} component={TacticsScreen} />
-      <Tab.Screen name={settingsName} component={SettingsScreen} />
+      <Tab.Screen name={MoreName} component={MoreScreen} />
     </Tab.Navigator>
   );
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, TouchableOpacity, Text, StyleSheet } from 'react-native';
-import colors from "../../assets/colors/colors";
+import colors from "../../assets/colors/colors.js";
 
 export default function HomeScreen({ navigation }) {
   return (
@@ -33,13 +33,13 @@ export default function HomeScreen({ navigation }) {
 const styles = StyleSheet.create({
   additionalButton: {
     backgroundColor: colors.primary,
-    paddingVertical: 10,
-    paddingHorizontal: 20,
+    paddingVertical: 15,
+    paddingHorizontal: 30,
     borderRadius: 10,
     marginTop: 20,
   },
   additionalButtonText: {
-    color: colors.white,
+    color: colors.textLight,
     fontSize: 16,
     fontWeight: 'bold',
   },
