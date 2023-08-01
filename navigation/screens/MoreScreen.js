@@ -122,7 +122,4 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontFamily: "Lato-Bold", // Use the name of the custom font here
   },
-  signOutButton: {
-
-  }
 });
