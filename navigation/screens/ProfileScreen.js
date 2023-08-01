@@ -22,19 +22,22 @@ export default function ProfileScreen() {
   return (
     <View style={styles.container}>
       {/* Custom Header */}
+
       <View style={styles.header}>
-        {/* Back Arrow Button */}
-
-        {/* Header Title */}
-        <Text style={styles.headerTitle}>Profile</Text>
-
         {/* Go Back Button */}
+        <View style={styles.goBackButtonContainer}> 
         <TouchableOpacity style={styles.goBackButton} onPress={handleGoBack}>
         <Image
             source={require("../../assets/pngs/left-arrow.png")}
             style={styles.goBackButtonImage}
           />        
           </TouchableOpacity>
+        </View>
+        
+        <View style={styles.titleContainer}> 
+        {/* Header Title */}
+        <Text style={styles.headerTitle}>Profile</Text>
+        </View>
       </View>
 
       {/* Add your profile content here */}
@@ -50,16 +53,25 @@ const styles = StyleSheet.create({
   header: {
     backgroundColor: colors.primary,
     height: 100,
-    justifyContent: "center",
     alignItems: "center",
     paddingTop: 50,
+    flexDirection: 'row',
+  },
+  titleContainer: {
+    flex: 1,
+    justifyContent: "center",
   },
   headerTitle: {
     fontSize: 22,
     color: colors.textLight,
     fontFamily: "Lato-Bold",
+    justifyContent: 'center',
   },
-  /*não consegui alinhar o botão à esquerda ainda mas também não tentei bem, vou dormir */
+  /* MARTIM AJUDA ME PQP NAO CONSIGO METER O TEXTO NO CENTRO */
+  goBackButtonContainer: {
+    paddingRight: 130,
+    paddingLeft: 10,
+  },
   goBackButton: {
     padding: 5,
   },
