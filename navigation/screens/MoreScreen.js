@@ -56,23 +56,10 @@ export default function MoreScreen() {
         backgroundColor: colors.background,
       }}
     >
-      {/* Six additional buttons */}
+      {/* additional buttons */}
+
       <TouchableOpacity
         style={[styles.additionalButton, { marginTop: 70 }]} // Increase the marginTop value to make the buttons lower
-        onPress={handleProfileButtonClick}
-      >
-        <Text style={styles.additionalButtonText}>Profile</Text>
-      </TouchableOpacity>
-
-      <TouchableOpacity
-        style={[styles.additionalButton, { marginTop: 20 }]} // Increase the marginTop value to make the buttons lower
-        onPress={() => alert("Stats button clicked")}
-      >
-        <Text style={styles.additionalButtonText}>Stats</Text>
-      </TouchableOpacity>
-
-      <TouchableOpacity
-        style={[styles.additionalButton, { marginTop: 20 }]} // Increase the marginTop value to make the buttons lower
         onPress={() => alert("SRS button clicked")}
       >
         <Text style={styles.additionalButtonText}>SRS Training</Text>

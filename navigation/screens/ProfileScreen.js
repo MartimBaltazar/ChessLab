@@ -1,14 +1,49 @@
+import React, { useState, useEffect } from "react";
 import { View, TouchableOpacity, Text, StyleSheet, Image } from "react-native";
 import colors from "../../assets/colors/colors.js";
-import { useNavigation, HeaderBackButton } from "@react-navigation/core";
+import { useNavigation } from "@react-navigation/core";
+import * as Font from "expo-font";
 import { auth } from "../../firebase.js";
 
 export default function ProfileScreen() {
+
+  const [fontsLoaded, setFontsLoaded] = useState(false);
+
+  // Load the custom font
+  useEffect(() => {
+    async function loadFonts() {
+      await Font.loadAsync({
+        "Lato-Bold": require("../../assets/fonts/Lato-Bold.ttf"),
+      });
+      setFontsLoaded(true);
+    }
+    loadFonts();
+  }, []);
+
   const navigation = useNavigation();
 
-  const handleGoBack = () => {
-    navigation.goBack(); // Navigate back to the previous screen (in this case, MoreScreen)
-  };
+  useEffect(() => {
+    navigation.setOptions({
+      title: "Profile", // Set the header title
+      headerStyle: {
+        backgroundColor: colors.primary, // Set the header background color
+        height: 100,
+      },
+      headerTintColor: colors.textLight, // Set the header text color
+      headerTitleStyle: {
+        fontFamily: "Lato-Bold", // Set the font family for the header title
+        fontSize: 22,
+      },
+      headerTitleContainerStyle: {
+        paddingBottom: 5, // Adjust this value to move the title higher
+      },
+      headerTitleAlign: "center",
+    });
+  }, [navigation]);
+
+  if (!fontsLoaded) {
+    return null; // Font is not loaded yet, return null or a loading screen here
+  }
 
   const handleSignOut = () => {
     auth
@@ -20,79 +55,28 @@ export default function ProfileScreen() {
   };
 
   return (
-    <View style={styles.container}>
-      {/* Custom Header */}
-
-      <View style={styles.header}>
-        {/* Go Back Button */}
-        <View style={styles.goBackButtonContainer}> 
-        <TouchableOpacity onPress={handleGoBack}>
-        <Image
-            source={require("../../assets/pngs/left-arrow.png")}
-            style={styles.goBackButtonImage}
-          />        
-          </TouchableOpacity>
-        </View>
-        
-        <View style={styles.titleContainer}> 
-        {/* Header Title */}
-        <Text style={styles.headerTitle}>Profile</Text>
-        </View>
-
-        {/* For alignment purposes */}
-        <View style={styles.backButtonPlaceholder}></View>
-      </View>
-
-      {/* Add your profile content here */}
+    <View
+      style={{
+        flex: 1,
+        alignItems: "center",
+        justifyContent: "flex-start", // Set justifyContent to "flex-start" to align the content (buttons) to the top
+        backgroundColor: colors.background,
+      }}
+    >
+      {/* Sign out button */}
       <TouchableOpacity
-      style={[styles.additionalButton, { marginTop: 70 }]} // Increase the marginTop value to make the buttons lower
-      onPress={handleSignOut}
+        style={[styles.additionalButton, { marginTop: 70 }]} // Increase the marginTop value to make the buttons lower
+        onPress={handleSignOut}
       >
         <Text style={styles.additionalButtonText}>Sign Out</Text>
-        </TouchableOpacity> 
+      </TouchableOpacity>
+
+      
     </View>
   );
 };
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: colors.background,
-    alignItems: "center",
-  },
-  header: {
-    backgroundColor: colors.primary,
-    height: 100,
-    alignItems: "center",
-    paddingTop: 50,
-    flexDirection: 'row',
-  },
-  titleContainer: {
-    justifyContent: "center",
-    flex: 1,
-    alignItems: 'center',
-  },
-  headerTitle: {
-    fontSize: 22,
-    color: colors.textLight,
-    fontFamily: "Lato-Bold",
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  goBackButtonContainer: {
-    justifyContent: 'flex-start',
-    alignItems: 'center',
-    paddingLeft: 16,
-  },
-  goBackButtonImage: {
-    width: 24,
-    height: 24,
-    tintColor: colors.textLight,
-  },
-  backButtonPlaceholder: {
-    justifyContent: 'flex-end',
-    padding: 16,
-  },
 
   additionalButton: {
     backgroundColor: colors.primary,

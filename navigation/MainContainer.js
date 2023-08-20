@@ -9,12 +9,14 @@ import colors from "../assets/colors/colors";
 // Screens
 import HomeScreen from './screens/HomeScreen';
 import TacticsScreen from './screens/TacticsScreen';
+import ProfileScreen from './screens/ProfileScreen';
 import MoreScreen from './screens/MoreScreen';
 
 // Screen names
 const Openings = 'Openings';
-const TacticsName = 'Tactics';
-const MoreName = 'More';
+const Tactics = 'Tactics';
+const Profile = 'Profile';
+const More = 'More';
 
 const Tab = createBottomTabNavigator();
 
@@ -23,9 +25,11 @@ const CustomTabBar = ({ state, descriptors, navigation }) => {
     switch (routeName) {
       case Openings:
         return 'book-open';
-      case TacticsName:
+      case Tactics:
         return 'chess-board';
-      case MoreName:
+      case Profile:
+        return 'chess-board';
+      case More:
         return 'more-horizontal';
       default:
         return isFocused ? 'book-open' : 'book-open';
@@ -66,14 +70,21 @@ const CustomTabBar = ({ state, descriptors, navigation }) => {
                 color={labelColor}
               />
             )}
-            {route.name === TacticsName && (
+            {route.name === Tactics && (
               <Icon
                 name={getIconName(route.name, isFocused)}
                 size={24}
                 color={labelColor}
               />
             )}
-            {route.name === MoreName && (
+            {route.name === Profile && (
+              <Icon
+                name={getIconName(route.name, isFocused)}
+                size={24}
+                color={labelColor}
+              />
+            )}
+            {route.name === More && (
               <FeatherIcon
                 name={getIconName(route.name, isFocused)}
                 size={24}
@@ -95,8 +106,9 @@ function MainContainer() {
       tabBar={(props) => <CustomTabBar {...props} />} // Use the custom tab bar component
     >
       <Tab.Screen name={Openings} component={HomeScreen} />
-      <Tab.Screen name={TacticsName} component={TacticsScreen} />
-      <Tab.Screen name={MoreName} component={MoreScreen} />
+      <Tab.Screen name={Tactics} component={TacticsScreen} />
+      <Tab.Screen name={Profile} component={ProfileScreen} />
+      <Tab.Screen name={More} component={MoreScreen} />
     </Tab.Navigator>
   );
 }
