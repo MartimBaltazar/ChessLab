@@ -1,15 +1,13 @@
 import React, { useState, useEffect } from "react";
-import { useNavigation } from "@react-navigation/core";
-import { auth } from "../../firebase.js";
+import { useNavigation } from "@react-navigation/native";
 
-// Import assets and components
+// import assets and components
+import colors from "../../assets/colors/colors";
 import * as Font from "expo-font";
-import colors from "../../assets/colors/colors.js";
-import GreenButton from "../../components/GreenButton.js";
 import BackgroundImage from '../../components/BackgroundImage.js';
+import GreenButton from "../../components/GreenButton";
 
-export default function ProfileScreen() {
-
+export default function ImportFromLichessScreen() {
   const [fontsLoaded, setFontsLoaded] = useState(false);
 
   // Load the custom font
@@ -23,14 +21,14 @@ export default function ProfileScreen() {
     loadFonts();
   }, []);
 
+  // Set the header title and background color
   const navigation = useNavigation();
-
   useEffect(() => {
     navigation.setOptions({
-      title: "Profile", // Set the header title
+      title: "Import From Lichess", // Set the header title
       headerStyle: {
         backgroundColor: colors.primary, // Set the header background color
-        height: 100,
+        height: 100
       },
       headerTintColor: colors.textLight, // Set the header text color
       headerTitleStyle: {
@@ -41,28 +39,23 @@ export default function ProfileScreen() {
         paddingBottom: 5, // Adjust this value to move the title higher
       },
       headerTitleAlign: "center",
-    });
-  }, [navigation]);
+      
+      });
+    }, [navigation]);
+  
 
   if (!fontsLoaded) {
     return null; // Font is not loaded yet, return null or a loading screen here
   }
 
-  const handleSignOut = () => {
-    auth
-      .signOut()
-      .then(() => {
-        navigation.replace("Login");
-      })
-      .catch((error) => alert(error.message));
+  const doNothing = () => {
+    // does nothing
   };
 
   return (
     <BackgroundImage>
-      <GreenButton title='Sign Out' onPress={handleSignOut} marginTop={70}></GreenButton>
+      <GreenButton title='Import From Lichess' onPress={doNothing} marginTop={70}></GreenButton>
     </BackgroundImage>
   );
-};
-
-
+}
 

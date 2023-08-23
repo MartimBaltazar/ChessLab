@@ -1,10 +1,13 @@
 import React, { useState, useEffect } from "react";
-import { View, TouchableOpacity, Text, StyleSheet } from "react-native";
 import { useNavigation } from "@react-navigation/native";
+
+// import assets and components
 import colors from "../../assets/colors/colors";
 import * as Font from "expo-font";
+import BackgroundImage from '../../components/BackgroundImage.js';
+import GreenButton from "../../components/GreenButton";
 
-export default function HomeScreen() {
+const HomeScreen = () => {
   const [fontsLoaded, setFontsLoaded] = useState(false);
 
   // Load the custom font
@@ -25,7 +28,7 @@ export default function HomeScreen() {
       title: "Openings", // Set the header title
       headerStyle: {
         backgroundColor: colors.primary, // Set the header background color
-        height: 100
+        height: 100,
       },
       headerTintColor: colors.textLight, // Set the header text color
       headerTitleStyle: {
@@ -45,58 +48,26 @@ export default function HomeScreen() {
     return null; // Font is not loaded yet, return null or a loading screen here
   }
 
+  const goToRepertoireScreen = () => {
+    navigation.navigate('Opening Repertoire');
+  }
+
+  const goToPracticeScreen = () => {
+    navigation.navigate('Opening Practice')
+  }
+
+  const goToLichessScreen = () => {
+    navigation.navigate('Import From Lichess')
+  }
+
   return (
-    <View
-      style={{
-        flex: 1,
-        alignItems: "center",
-        justifyContent: "flex-start", // Set justifyContent to "flex-start" to align the content (buttons) to the top
-        backgroundColor: colors.background,
-      }}
-    >
-      {/* Three additional buttons */}
-      <TouchableOpacity
-        style={[styles.additionalButton, { marginTop: 70 }]} // Increase the marginTop value to make the buttons lower
-        onPress={() => alert("Opening Repertoire button clicked")}
-      >
-        <Text style={styles.additionalButtonText}>Opening Repertoire</Text>
-      </TouchableOpacity>
-
-      <TouchableOpacity
-        style={[styles.additionalButton, { marginTop: 20 }]} // Increase the marginTop value to make the buttons lower
-        onPress={() => alert("Opening Practice button clicked")}
-      >
-        <Text style={styles.additionalButtonText}>Opening Practice</Text>
-      </TouchableOpacity>
-
-      <TouchableOpacity
-        style={[styles.additionalButton, { marginTop: 20 }]} // Increase the marginTop value to make the buttons lower
-        onPress={() => alert("Import from Lichess button clicked")}
-      >
-        <Text style={styles.additionalButtonText}>Import from Lichess</Text>
-      </TouchableOpacity>
-    </View>
+    <BackgroundImage>
+      <GreenButton title='Opening Repertoire' onPress={goToRepertoireScreen} marginTop={70}></GreenButton>
+      <GreenButton title='Opening Practice' onPress={goToPracticeScreen}></GreenButton>
+      <GreenButton title='Import From Lichess' onPress={goToLichessScreen}></GreenButton>
+    </BackgroundImage>
   );
 }
 
-const styles = StyleSheet.create({
-  additionalButton: {
-    backgroundColor: colors.primary,
-    paddingVertical: 18,
-    paddingHorizontal: 30,
-    borderRadius: 15,
-    marginTop: 40,
-    marginBottom: 20,
-    width: "70%",
-    borderColor: colors.border,
-    borderWidth: 1,
-    alignContent: "center",
-    alignItems: "center",
-    elevation: 10,
-  },
-  additionalButtonText: {
-    color: colors.textLight,
-    fontSize: 16,
-    fontFamily: "Lato-Bold", // Use the name of the custom font here
-  },
-});
+export default HomeScreen;
+

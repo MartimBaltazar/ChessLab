@@ -1,15 +1,13 @@
 import React, { useState, useEffect } from "react";
 import { useNavigation } from "@react-navigation/core";
-import { auth } from "../../firebase.js";
 
-// Import assets and components
+// import assets and components
+import colors from "../../assets/colors/colors";
 import * as Font from "expo-font";
-import colors from "../../assets/colors/colors.js";
-import GreenButton from "../../components/GreenButton.js";
-import BackgroundImage from '../../components/BackgroundImage.js';
+import BackgroundImage from "../../components/BackgroundImage";
+import GreenButton from "../../components/GreenButton";
 
-export default function ProfileScreen() {
-
+export default function MoreScreen() {
   const [fontsLoaded, setFontsLoaded] = useState(false);
 
   // Load the custom font
@@ -27,7 +25,7 @@ export default function ProfileScreen() {
 
   useEffect(() => {
     navigation.setOptions({
-      title: "Profile", // Set the header title
+      title: "Store", // Set the header title
       headerStyle: {
         backgroundColor: colors.primary, // Set the header background color
         height: 100,
@@ -48,21 +46,13 @@ export default function ProfileScreen() {
     return null; // Font is not loaded yet, return null or a loading screen here
   }
 
-  const handleSignOut = () => {
-    auth
-      .signOut()
-      .then(() => {
-        navigation.replace("Login");
-      })
-      .catch((error) => alert(error.message));
+  const doNothing = () => {
+    // does nothing
   };
 
   return (
     <BackgroundImage>
-      <GreenButton title='Sign Out' onPress={handleSignOut} marginTop={70}></GreenButton>
+      <GreenButton title='Store' onPress={doNothing} marginTop={70}></GreenButton>
     </BackgroundImage>
   );
-};
-
-
-
+}

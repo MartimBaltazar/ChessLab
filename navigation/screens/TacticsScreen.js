@@ -1,8 +1,11 @@
 import React, { useState, useEffect } from "react";
-import { View, TouchableOpacity, Text, StyleSheet } from "react-native";
 import { useNavigation } from "@react-navigation/native";
+
+// import assets and components
 import colors from "../../assets/colors/colors";
 import * as Font from "expo-font";
+import BackgroundImage from '../../components/BackgroundImage.js';
+import GreenButton from "../../components/GreenButton";
 
 export default function TacticsScreen() {
   const [fontsLoaded, setFontsLoaded] = useState(false);
@@ -44,52 +47,18 @@ export default function TacticsScreen() {
     return null; // Font is not loaded yet, return null or a loading screen here
   }
 
+  const goToMotifsScreen = () => {
+    navigation.navigate('Tactical Motifs')
+  };
+
+  const goToPracticeScreen = () => {
+    navigation.navigate('Tactical Practice')
+  };
+
   return (
-    <View
-      style={{
-        flex: 1,
-        alignItems: "center",
-        justifyContent: "flex-start", // Set justifyContent to "flex-start" to align the content (buttons) to the top
-        backgroundColor: colors.background,
-      }}
-    >
-      {/* Two additional buttons */}
-      <TouchableOpacity
-        style={[styles.additionalButton, { marginTop: 70 }]} // Increase the marginTop value to make the buttons lower
-        onPress={() => alert("Tactical Motifs button clicked")}
-      >
-        <Text style={styles.additionalButtonText}>Tactical Motifs</Text>
-      </TouchableOpacity>
-
-      <TouchableOpacity
-        style={[styles.additionalButton, { marginTop: 20 }]} // Increase the marginTop value to make the buttons lower
-        onPress={() => alert("Tactical Practice")}
-      >
-        <Text style={styles.additionalButtonText}>Tactical Practice</Text>
-      </TouchableOpacity>
-
-    </View>
+    <BackgroundImage>
+      <GreenButton title='Tactical Motifs' onPress={goToMotifsScreen} marginTop={70}></GreenButton>
+      <GreenButton title='Tactical Practice' onPress={goToPracticeScreen}></GreenButton>
+    </BackgroundImage>
   );
 }
-
-const styles = StyleSheet.create({
-  additionalButton: {
-    backgroundColor: colors.primary,
-    paddingVertical: 18,
-    paddingHorizontal: 30,
-    borderRadius: 15,
-    marginTop: 40,
-    marginBottom: 20,
-    width: "70%",
-    borderColor: colors.border,
-    borderWidth: 1,
-    alignContent: "center",
-    alignItems: "center",
-    elevation: 10,
-  },
-  additionalButtonText: {
-    color: colors.textLight,
-    fontSize: 16,
-    fontFamily: "Lato-Bold", // Use the name of the custom font here
-  },
-});

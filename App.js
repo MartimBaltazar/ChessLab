@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { createStackNavigator } from '@react-navigation/stack';
 
 import { useFonts } from 'expo-font';
 import { auth } from './firebase';
@@ -9,7 +9,7 @@ import { auth } from './firebase';
 import LoginScreen from './navigation/screens/LoginScreen';
 import MainContainer from './navigation/MainContainer';
 
-const Stack = createNativeStackNavigator();
+const Stack = createStackNavigator();
 
 export default function App() {
   const [fontsLoaded] = useFonts({

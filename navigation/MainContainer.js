@@ -1,22 +1,23 @@
 import React from 'react';
-import { View, TouchableOpacity, Text } from 'react-native';
+import { View, TouchableOpacity, Text, StyleSheet } from 'react-native';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Icon from 'react-native-vector-icons/FontAwesome5';
 import FeatherIcon from 'react-native-vector-icons/Feather';
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { StyleSheet } from 'react-native';
+
+// import assets and components
 import colors from "../assets/colors/colors";
 
-// Screens
-import HomeScreen from './screens/HomeScreen';
-import TacticsScreen from './screens/TacticsScreen';
+// import screens and navigators
+import OpeningNavigator from './screens/OpeningNavigator';
+import TacticsNavigator from './screens/TacticsNavigator';
 import ProfileScreen from './screens/ProfileScreen';
-import MoreScreen from './screens/MoreScreen';
+import MoreNavigator from './screens/MoreNavigator';
 
 // Screen names
-const Openings = 'Openings';
-const Tactics = 'Tactics';
+const Openings = 'Opening Navigator';
+const Tactics = 'Tactics Navigator';
 const Profile = 'Profile';
-const More = 'More';
+const More = 'More Navigator';
 
 const Tab = createBottomTabNavigator();
 
@@ -28,7 +29,7 @@ const CustomTabBar = ({ state, descriptors, navigation }) => {
       case Tactics:
         return 'chess-board';
       case Profile:
-        return 'chess-board';
+        return 'user-circle';
       case More:
         return 'more-horizontal';
       default:
@@ -104,11 +105,12 @@ function MainContainer() {
     <Tab.Navigator
       initialRouteName={Openings}
       tabBar={(props) => <CustomTabBar {...props} />} // Use the custom tab bar component
+      screenOptions={{ headerShown: false }}
     >
-      <Tab.Screen name={Openings} component={HomeScreen} />
-      <Tab.Screen name={Tactics} component={TacticsScreen} />
-      <Tab.Screen name={Profile} component={ProfileScreen} />
-      <Tab.Screen name={More} component={MoreScreen} />
+      <Tab.Screen name={Openings} component={OpeningNavigator} />
+      <Tab.Screen name={Tactics} component={TacticsNavigator} />
+      <Tab.Screen name={Profile} component={ProfileScreen}  options={{ headerShown: true }}/>
+      <Tab.Screen name={More} component={MoreNavigator} />
     </Tab.Navigator>
   );
 }
